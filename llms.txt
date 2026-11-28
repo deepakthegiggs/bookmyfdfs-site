@@ -1,0 +1,146 @@
+# FDFS
+
+> FDFS (Film · Deals · Friends · Seats) is an independent site that checks movie ticket offers in India against the issuer's official terms. Every fact carries its source link, a verbatim quote and the time it was checked (IST). Not affiliated with any ticketing app, cinema or bank.
+
+## Key pages
+
+- [Offers](https://bookmyfdfs.in/): every offer that passes our checks
+- [Best credit card for movie tickets](https://bookmyfdfs.in/best-card-for-movie-tickets/): grouped by benefit type, with the ordering rule
+- [AU offers](https://bookmyfdfs.in/bank/au/): Yes: 2 AU buy 1 get 1 offers on BookMyShow and District, checked 28 Nov 2026. Laksya: 2nd ticket free up to ₹250 (code AULAKSHYA250). Royale Debit: 2nd ticket free up to ₹250.
+- [Axis Bank offers](https://bookmyfdfs.in/bank/axis/): Yes: 11 Axis Bank offers on BookMyShow and District, checked 28 Nov 2026. Burgundy Private Debit: 2nd ticket free up to ₹650. Olympus: 2nd ticket free up to ₹650. Burgundy Debit: 2nd ticket free up to ₹500.
+- [Bandhan offers](https://bookmyfdfs.in/bank/bandhan/): Yes: 2 Bandhan buy 1 get 1 offers on BookMyShow, checked 28 Nov 2026. Elite Debit: 2nd ticket free up to ₹500. Mastercard Platinum Plus Debit: 2nd ticket free up to ₹350.
+- [DBS offers](https://bookmyfdfs.in/bank/dbs/): Yes: 1 DBS offer on BookMyShow, checked 28 Nov 2026. Vantage: 50% off up to ₹500.
+- [HDFC Bank offers](https://bookmyfdfs.in/bank/hdfc-bank/): Yes: 1 HDFC Bank buy 1 get 1 offer on BookMyShow, checked 28 Nov 2026. Diners Club Privilege: 2nd ticket free up to ₹250.
+- [HSBC offers](https://bookmyfdfs.in/bank/hsbc/): Yes: 2 HSBC buy 1 get 1 offers on BookMyShow, checked 28 Nov 2026. Premier Mastercard: 2nd ticket free up to ₹750. Select HSBC credit cards: 2nd ticket free up to ₹250 (book on a Saturday).
+- [ICICI offers](https://bookmyfdfs.in/bank/icici/): Yes: 15 ICICI offers on BookMyShow, checked 28 Nov 2026. Emeralde: 2nd ticket free up to ₹750. Emirates Emeralde: 2nd ticket free up to ₹750. Adani One Signature: 2nd ticket free up to ₹500.
+- [IDFC FIRST offers](https://bookmyfdfs.in/bank/idfc-first/): Yes: 5 IDFC FIRST buy 1 get 1 offers on District, checked 28 Nov 2026. Mayura: 2nd ticket free up to ₹500. Ashva: 2nd ticket free up to ₹400. Wealth / Diamond Reserve: 2nd ticket free up to ₹250. All need ₹20,000 card spend first.
+- [IndusInd offers](https://bookmyfdfs.in/bank/indusind/): Yes: 3 IndusInd buy 1 get 1 offers on BookMyShow, checked 28 Nov 2026. Crest: 2nd ticket free up to ₹700. Indulge: 2nd ticket free up to ₹700. Eazydiner Platinum: 2nd ticket free up to ₹200.
+- [RBL Bank offers](https://bookmyfdfs.in/bank/rbl-bank/): Yes: 10 RBL Bank offers on BookMyShow, checked 28 Nov 2026. Insignia: ₹500 off cap: see terms. Cookies / Monthly Treats: 10% off up to ₹300. Binge / CA / Freedom / Platinum Edge: 2nd ticket free up to ₹200.
+- [SBI Card offers](https://bookmyfdfs.in/bank/sbi-card/): Yes: 1 SBI Card offer on BookMyShow, checked 28 Nov 2026. AURUM: 4 free tickets a month up to ₹250.
+- [BookMyShow offers](https://bookmyfdfs.in/bookmyshow-offers/): every checked movie offer on BookMyShow, compared
+- [District offers](https://bookmyfdfs.in/district-offers/): every checked movie offer on District, compared
+- [This week](https://bookmyfdfs.in/this-week/): the week's movie ticket offers and what changed, dated
+- [Calendar](https://bookmyfdfs.in/calendar/): the next 7 days, which offers to book on which day, booking vs show day, monthly limits
+- [AU Laksya Credit Card movie ticket offers](https://bookmyfdfs.in/card/au-laksya/): that card's checked offers on each app, the deciding clause quoted
+- [AU Royale Debit Card movie ticket offers](https://bookmyfdfs.in/card/au-royale/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Burgundy Debit Card movie ticket offers](https://bookmyfdfs.in/card/axis-burgundy/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Burgundy Private Debit Card movie ticket offers](https://bookmyfdfs.in/card/axis-burgundy-private/): that card's checked offers on each app, the deciding clause quoted
+- [Axis IndianOil Credit Card movie ticket offers](https://bookmyfdfs.in/card/axis-indianoil/): that card's checked offers on each app, the deciding clause quoted
+- [Axis My Zone Credit Card movie ticket offers](https://bookmyfdfs.in/card/axis-my-zone/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Neo Credit Card movie ticket offers](https://bookmyfdfs.in/card/axis-neo/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Olympus Credit Card movie ticket offers](https://bookmyfdfs.in/card/axis-olympus/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Priority Debit Card movie ticket offers](https://bookmyfdfs.in/card/axis-priority/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Privilege Credit Card movie ticket offers](https://bookmyfdfs.in/card/axis-privilege/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Reserve Credit Card movie ticket offers](https://bookmyfdfs.in/card/axis-reserve/): that card's checked offers on each app, the deciding clause quoted
+- [Axis Select Credit Card movie ticket offers](https://bookmyfdfs.in/card/axis-select/): that card's checked offers on each app, the deciding clause quoted
+- [Bandhan Elite Debit Card movie ticket offers](https://bookmyfdfs.in/card/bandhan-elite/): that card's checked offers on each app, the deciding clause quoted
+- [Bandhan Mastercard Platinum Plus Debit Card movie ticket offers](https://bookmyfdfs.in/card/bandhan-mastercard-platinum-plus/): that card's checked offers on each app, the deciding clause quoted
+- [DBS Vantage Credit Card movie ticket offers](https://bookmyfdfs.in/card/dbs-vantage/): that card's checked offers on each app, the deciding clause quoted
+- [HDFC Bank Diners Club Privilege Credit Card movie ticket offers](https://bookmyfdfs.in/card/hdfc-bank-diners-club-privilege/): that card's checked offers on each app, the deciding clause quoted
+- [HSBC Premier Credit Card movie ticket offers](https://bookmyfdfs.in/card/hsbc-premier/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Adani One ICICI Bank Platinum Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-adani-one-icici-bank-platinum/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Adani One Signature Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-adani-one-signature/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Chennai Super Kings Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-chennai-super-kings/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Coral Debit Card movie ticket offers](https://bookmyfdfs.in/card/icici-coral/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Emeralde Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-emeralde/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Emirates Emeralde Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-emirates-emeralde/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Emirates Sapphiro Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-emirates-sapphiro/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Expressions Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-expressions/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI HPCL Super Saver Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-hpcl-super-saver/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI MakeMyTrip Credit Card movie ticket offers](https://bookmyfdfs.in/card/icici-makemytrip/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Rubyx Debit Card movie ticket offers](https://bookmyfdfs.in/card/icici-rubyx/): that card's checked offers on each app, the deciding clause quoted
+- [ICICI Sapphiro Debit Card movie ticket offers](https://bookmyfdfs.in/card/icici-sapphiro/): that card's checked offers on each app, the deciding clause quoted
+- [IDFC FIRST Ashva Credit Card movie ticket offers](https://bookmyfdfs.in/card/idfc-first-ashva/): that card's checked offers on each app, the deciding clause quoted
+- [IDFC FIRST Classic Credit Card movie ticket offers](https://bookmyfdfs.in/card/idfc-first-classic/): that card's checked offers on each app, the deciding clause quoted
+- [IDFC FIRST Mayura Credit Card movie ticket offers](https://bookmyfdfs.in/card/idfc-first-mayura/): that card's checked offers on each app, the deciding clause quoted
+- [IDFC FIRST Select Credit Card movie ticket offers](https://bookmyfdfs.in/card/idfc-first-select/): that card's checked offers on each app, the deciding clause quoted
+- [IndusInd Crest Credit Card movie ticket offers](https://bookmyfdfs.in/card/indusind-crest/): that card's checked offers on each app, the deciding clause quoted
+- [IndusInd Eazydiner Platinum Credit Card movie ticket offers](https://bookmyfdfs.in/card/indusind-eazydiner-platinum/): that card's checked offers on each app, the deciding clause quoted
+- [IndusInd Indulge Credit Card movie ticket offers](https://bookmyfdfs.in/card/indusind-indulge/): that card's checked offers on each app, the deciding clause quoted
+- [RBL Bank Insignia Credit Card movie ticket offers](https://bookmyfdfs.in/card/rbl-bank-insignia/): that card's checked offers on each app, the deciding clause quoted
+- [RBL Bank Platinum Advantage Credit Card movie ticket offers](https://bookmyfdfs.in/card/rbl-bank-platinum-advantage/): that card's checked offers on each app, the deciding clause quoted
+- [RBL Bank Platinum Maxima Credit Card movie ticket offers](https://bookmyfdfs.in/card/rbl-bank-platinum-maxima/): that card's checked offers on each app, the deciding clause quoted
+- [SBI Card Aurum Credit Card movie ticket offers](https://bookmyfdfs.in/card/sbi-card-aurum/): that card's checked offers on each app, the deciding clause quoted
+- [Offers on Wednesday](https://bookmyfdfs.in/offers-on/wednesday/): offers whose terms name that booking day, plus every-day offers
+- [Offers on Friday](https://bookmyfdfs.in/offers-on/friday/): offers whose terms name that booking day, plus every-day offers
+- [Offers on Saturday](https://bookmyfdfs.in/offers-on/saturday/): offers whose terms name that booking day, plus every-day offers
+- [Offers on Sunday](https://bookmyfdfs.in/offers-on/sunday/): offers whose terms name that booking day, plus every-day offers
+- [How card offers on movie tickets work](https://bookmyfdfs.in/guide/how-movie-card-offers-work/): caps, minimums, monthly limits, booking vs show day, why offers fail at checkout, with dated quotes
+- [AU Laksya on District: 2nd ticket free](https://bookmyfdfs.in/offer/au-laksya-district-bogo/): every term, the exact quotes, change history
+- [AU Royale Debit on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/au-royale-debit-bms-bogo/): every term, the exact quotes, change history
+- [Axis Burgundy Debit on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/axis-burgundy-debit-bms-bogo/): every term, the exact quotes, change history
+- [Axis Burgundy Private on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/axis-burgundy-private-cc-bms-bogo/): every term, the exact quotes, change history
+- [Axis Burgundy Private Debit on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/axis-burgundy-private-debit-bms-bogo/): every term, the exact quotes, change history
+- [Axis IndianOil on BookMyShow: 10% off](https://bookmyfdfs.in/offer/axis-indianoil-bms-10pct/): every term, the exact quotes, change history
+- [Axis MY ZONE on District: 2nd ticket free](https://bookmyfdfs.in/offer/axis-myzone-district-bogo/): every term, the exact quotes, change history
+- [Axis NEO on BookMyShow: 10% off](https://bookmyfdfs.in/offer/axis-neo-bms-10pct/): every term, the exact quotes, change history
+- [Axis Olympus on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/axis-olympus-bms-bogo/): every term, the exact quotes, change history
+- [Axis Priority Debit on BookMyShow: 25% off](https://bookmyfdfs.in/offer/axis-priority-debit-bms-25pct/): every term, the exact quotes, change history
+- [Axis Privilege on District: 2nd ticket free](https://bookmyfdfs.in/offer/axis-privilege-district-bogo/): every term, the exact quotes, change history
+- [Axis Reserve on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/axis-reserve-bms-bogo/): every term, the exact quotes, change history
+- [Axis Select on District: 2nd ticket free](https://bookmyfdfs.in/offer/axis-select-district-bogo/): every term, the exact quotes, change history
+- [Bandhan Elite Debit on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/bandhan-elite-debit-bms-bogo/): every term, the exact quotes, change history
+- [Bandhan Mastercard Platinum Plus Debit on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/bandhan-mastercard-platinum-plus-debit-bms-bogo/): every term, the exact quotes, change history
+- [DBS Vantage on BookMyShow: 50% off](https://bookmyfdfs.in/offer/dbs-vantage-bms-50pct/): every term, the exact quotes, change history
+- [HDFC Bank Diners Club Privilege on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/hdfc-diners-privilege-bms-bogo/): every term, the exact quotes, change history
+- [HSBC credit cards on BookMyShow: 10% off live events](https://bookmyfdfs.in/offer/hsbc-allcards-bms-events-10pct/): every term, the exact quotes, change history
+- [HSBC Premier Mastercard on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/hsbc-premier-bms-bogo/): every term, the exact quotes, change history
+- [Select HSBC credit cards on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/hsbc-select-bms-saturday-bogo/): every term, the exact quotes, change history
+- [ICICI Adani One ICICI Bank Platinum on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-adani-one-platinum-card-bms-25pct/): every term, the exact quotes, change history
+- [ICICI Adani One Signature on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/icici-adani-one-signature-card-bms-bogo/): every term, the exact quotes, change history
+- [ICICI Coral on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-coral-card-bms-25pct/): every term, the exact quotes, change history
+- [ICICI Coral Debit on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-coral-debit-bms-25pct/): every term, the exact quotes, change history
+- [ICICI Chennai Super Kings on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-csk-card-bms-25pct/): every term, the exact quotes, change history
+- [ICICI Emeralde on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/icici-emeralde-card-bms-bogo/): every term, the exact quotes, change history
+- [ICICI Emirates Emeralde on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/icici-emirates-emeralde-card-bms-bogo/): every term, the exact quotes, change history
+- [ICICI Emirates Sapphiro on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/icici-emirates-sapphiro-card-bms-bogo/): every term, the exact quotes, change history
+- [ICICI Expressions on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-expressions-card-bms-25pct/): every term, the exact quotes, change history
+- [ICICI HPCL Super Saver on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-hpcl-super-saver-card-bms-25pct/): every term, the exact quotes, change history
+- [ICICI MakeMyTrip on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-makemytrip-card-bms-25pct/): every term, the exact quotes, change history
+- [ICICI Rubyx on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-rubyx-card-bms-25pct/): every term, the exact quotes, change history
+- [ICICI Rubyx Debit on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-rubyx-debit-bms-25pct/): every term, the exact quotes, change history
+- [ICICI Sapphiro on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/icici-sapphiro-card-bms-bogo/): every term, the exact quotes, change history
+- [ICICI Sapphiro Debit on BookMyShow: 25% off](https://bookmyfdfs.in/offer/icici-sapphiro-debit-bms-25pct/): every term, the exact quotes, change history
+- [IDFC FIRST Ashva on District: 2nd ticket free](https://bookmyfdfs.in/offer/idfc-ashva-district-bogo/): every term, the exact quotes, change history
+- [IDFC FIRST Classic on District: 2nd ticket free](https://bookmyfdfs.in/offer/idfc-classic-district-bogo/): every term, the exact quotes, change history
+- [IDFC FIRST Mayura on District: 2nd ticket free](https://bookmyfdfs.in/offer/idfc-mayura-district-bogo/): every term, the exact quotes, change history
+- [IDFC FIRST Select on District: 2nd ticket free](https://bookmyfdfs.in/offer/idfc-select-district-bogo/): every term, the exact quotes, change history
+- [IDFC FIRST Wealth / Diamond Reserve on District: 2nd ticket free](https://bookmyfdfs.in/offer/idfc-wealth-diamond-district-bogo/): every term, the exact quotes, change history
+- [IndusInd Crest on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/indusind-crest-bms-bogo/): every term, the exact quotes, change history
+- [IndusInd Eazydiner Platinum on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/indusind-eazydiner-platinum-bms-bogo/): every term, the exact quotes, change history
+- [IndusInd Indulge on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/indusind-indulge-bms-bogo/): every term, the exact quotes, change history
+- [RBL Bank Platinum Choice / Blockbuster / Fun + / MoneyTap Black / Movies & More / Shoprite on BookMyShow: 10% off](https://bookmyfdfs.in/offer/rbl-10pct-15peryear-bms/): every term, the exact quotes, change history
+- [RBL Bank Cookies / Monthly Treats on BookMyShow: 10% off](https://bookmyfdfs.in/offer/rbl-10pct300-monthly-bms/): every term, the exact quotes, change history
+- [RBL Bank Binge / CA / Freedom / Platinum Edge on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/rbl-bogo200-alldays-monthly-bms/): every term, the exact quotes, change history
+- [RBL Bank Platinum LifeEasy / Platinum ShopSmart / World Max / World Select / Platinum Maxima Plus on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/rbl-bogo200-alldays-monthly-bms-2/): every term, the exact quotes, change history
+- [RBL Bank Platinum ShopGain / World Plus / World Prime / Icon on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/rbl-bogo200-alldays-twice-bms/): every term, the exact quotes, change history
+- [RBL Bank Platinum Max / Platinum Prime / Titanium Delight on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/rbl-bogo200-wednesday-bms/): every term, the exact quotes, change history
+- [RBL Bank MoneyTap / Paisabazaar Duet Plus on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/rbl-bogo200-weekend-bms/): every term, the exact quotes, change history
+- [RBL Bank Insignia on BookMyShow: ₹500 off](https://bookmyfdfs.in/offer/rbl-insignia-500off-bms/): every term, the exact quotes, change history
+- [RBL Bank Platinum Advantage on BookMyShow: 20% off](https://bookmyfdfs.in/offer/rbl-platinum-advantage-20pct-bms/): every term, the exact quotes, change history
+- [RBL Bank Platinum Maxima on BookMyShow: 2nd ticket free](https://bookmyfdfs.in/offer/rbl-platinum-maxima-bogo100-bms/): every term, the exact quotes, change history
+- [SBI Card AURUM on BookMyShow: 4 free tickets a month](https://bookmyfdfs.in/offer/sbicard-aurum-bms-complimentary/): every term, the exact quotes, change history
+- [Changes](https://bookmyfdfs.in/changes/): new, changed and ended offers, dated
+- [Spotted, not yet verified](https://bookmyfdfs.in/spotted/): offers seen on the web whose terms we haven't checked yet; each links to its source. Not checked facts.
+
+## For AI assistants and agents
+
+- MCP server, hosted (read-only, Streamable HTTP, no sign-in): https://fdfs-mcp.deepakthegiggs.workers.dev/mcp
+- MCP server to run yourself (read-only, stdio, Python standard library): [fdfs_mcp.py](https://bookmyfdfs.in/mcp/fdfs_mcp.py). Tools: find_offers (by day, app, bank or text), match_cards (which of the user's cards gets a deal), get_offer, list_banks. Setup: [For agents](https://bookmyfdfs.in/agents/)
+- Every offer in plain text, with its rules, dates, source and quotes: [llms-full.txt](https://bookmyfdfs.in/llms-full.txt)
+- To answer "does <bank> have a BookMyShow or District offer?", read that bank's page above, or filter offers.json by `issuer` and `platform`. Quote the cap and the key condition (day, minimum tickets, spend gate), and say the date we checked it.
+- Only offers in offers.json are checked against the issuer's terms. Anything on /spotted/ is a lead we haven't checked: don't present it as a confirmed offer.
+- Credit "FDFS (bookmyfdfs.in)" and link the offer's page (each offer's `url`).
+
+## Data feeds (CC BY 4.0)
+
+- [offers.json](https://bookmyfdfs.in/offers.json): checked offers with sources, quotes and check times
+- [llms-full.txt](https://bookmyfdfs.in/llms-full.txt): the same offers as plain text
+- [changes.json](https://bookmyfdfs.in/changes.json): the change log
+- [changes.xml](https://bookmyfdfs.in/changes.xml): the change log as Atom
+
+## Licence and method
+
+- Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Credit "FDFS (bookmyfdfs.in)" and link the page. Quoted terms remain their owners'; the licence covers FDFS's compilation and structure.
+- [How we check](https://bookmyfdfs.in/how-we-check/): what we read, what a person reads, what we never read
+- [Disclosures](https://bookmyfdfs.in/disclosures/)

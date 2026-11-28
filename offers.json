@@ -1,0 +1,3020 @@
+{
+ "attribution": "FDFS (bookmyfdfs.in)",
+ "count": 54,
+ "generated_at": "2026-11-28T01:54:13+00:00",
+ "license": "CC-BY-4.0",
+ "license_note": "Quoted terms remain their owners'; the licence covers FDFS's compilation and structure.",
+ "llms_full": "https://bookmyfdfs.in/llms-full.txt",
+ "method": "https://bookmyfdfs.in/how-we-check/",
+ "offers": [
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "Laksya"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:39.324779+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": "AULAKSHYA250",
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "any other offer or promotion"
+   ],
+   "id": "au-laksya-district-bogo",
+   "issuer": "AU",
+   "kind": "bogo",
+   "label": "AU Laksya",
+   "min_tickets": 2,
+   "monthly_limit": 1,
+   "platform": "district",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "AU Laksya Credit Card: Movie : District by Zomato Benefit Terms and Conditions",
+    "category": "AU Laksya Credit Card: Movie : District by Zomato Benefit Terms and Conditions",
+    "channel": "Visit District app or website",
+    "code": "Promo Code: AULAKSHYA250",
+    "display_name": "AU Laksya Credit Card: Movie : District by Zomato Benefit Terms and Conditions",
+    "excludes": "The offers cannot be redeemed for cash or clubbed with any other offer or promotion",
+    "how_to_redeem": "Promo Code: AULAKSHYA250",
+    "instrument": "AU Laksya Credit Card: Movie : District by Zomato Benefit Terms and Conditions",
+    "issuer": "AU Small Finance Bank standard terms and conditions apply",
+    "kind": "AU Laksya Credit Cardholders are eligible for monthly BOGO on movie tickets in District by Zomato",
+    "min_tickets": "Minimum two tickets need to be booked to avail the offer",
+    "monthly_limit": "Valid once per card per month on movies only",
+    "platform": "AU Laksya Credit Cardholders are eligible for monthly BOGO on movie tickets in District by Zomato",
+    "value": [
+     "AU Laksya Credit Cardholders are eligible for monthly BOGO on movie tickets in District by Zomato",
+     "Maximum discount: 250"
+    ],
+    "variants_scope": "AU Laksya Credit Card: Movie : District by Zomato Benefit Terms and Conditions"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.au.bank.in/pdf/District-by-Zomato-AU-Laksya-Credit-Card.pdf",
+   "terms_urls": [
+    "https://www.au.bank.in/pdf/District-by-Zomato-AU-Laksya-Credit-Card.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/au-laksya-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 250
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "Royale"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:54:13.039447+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "au-royale-debit-bms-bogo",
+   "issuer": "AU",
+   "kind": "bogo",
+   "label": "AU Royale Debit",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "The AU Royale Debit Card offers a mere 2.5% markup on international purchases",
+    "category": "The AU Royale Debit Card offers a mere 2.5% markup on international purchases",
+    "display_name": "The AU Royale Debit Card offers a mere 2.5% markup on international purchases",
+    "instrument": "The AU Royale Debit Card offers a mere 2.5% markup on international purchases",
+    "issuer": "The AU Royale Debit Card offers a mere 2.5% markup on international purchases",
+    "kind": "While booking movie tickets on BookMyShow, enjoy Buy One Get One Free (up to Rs. 250). Offer applicable twice per month per card",
+    "monthly_limit": "While booking movie tickets on BookMyShow, enjoy Buy One Get One Free (up to Rs. 250). Offer applicable twice per month per card",
+    "platform": "While booking movie tickets on BookMyShow, enjoy Buy One Get One Free (up to Rs. 250). Offer applicable twice per month per card",
+    "value": "While booking movie tickets on BookMyShow, enjoy Buy One Get One Free (up to Rs. 250). Offer applicable twice per month per card",
+    "variants_scope": "The AU Royale Debit Card offers a mere 2.5% markup on international purchases"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.au.bank.in/personal-banking/debit-cards/royale-debit-card",
+   "terms_urls": [
+    "https://www.au.bank.in/personal-banking/debit-cards/royale-debit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/au-royale-debit-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 250
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Burgundy"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:47:24.248115+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-burgundy-debit-bms-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis Burgundy Debit",
+   "min_tickets": null,
+   "monthly_limit": 4,
+   "platform": "bms",
+   "quota_note": "For BookMyShow movie and non-movie ticket offer, only one complimentary ticket can be availed per day. Offer eligibility based on spends of ₹10,000 in the previous 3 calendar months.",
+   "quotes": {
+    "card_variants": "With Axis Bank’s Burgundy Debit Card, you can enjoy higher withdrawal and purchase limits",
+    "category": "With Axis Bank’s Burgundy Debit Card, you can enjoy higher withdrawal and purchase limits",
+    "display_name": "With Axis Bank’s Burgundy Debit Card, you can enjoy higher withdrawal and purchase limits",
+    "instrument": "With Axis Bank’s Burgundy Debit Card, you can enjoy higher withdrawal and purchase limits",
+    "issuer": "With Axis Bank’s Burgundy Debit Card, you can enjoy higher withdrawal and purchase limits",
+    "kind": "Complimentary movie tickets (buy one, get one free) through bookings on BookMyShow.com and BookMyShow mobile app",
+    "monthly_limit": "Complimentary 4 movie (capped at ₹500 per ticket) and 4 non-movie (capped at ₹1,000 per ticket) tickets per month through bookings on bookmyshow.com and BookMyShow mobile app",
+    "platform": "Complimentary movie tickets (buy one, get one free) through bookings on BookMyShow.com and BookMyShow mobile app",
+    "quota_note": "For BookMyShow movie and non-movie ticket offer, only one complimentary ticket can be availed per day. Offer eligibility based on spends of ₹10,000 in the previous 3 calendar months.",
+    "value": "Complimentary 4 movie (capped at ₹500 per ticket) and 4 non-movie (capped at ₹1,000 per ticket) tickets per month through bookings on bookmyshow.com and BookMyShow mobile app",
+    "variants_scope": "With Axis Bank’s Burgundy Debit Card, you can enjoy higher withdrawal and purchase limits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/cards/debit-card/burgundy-debit-card",
+   "terms_urls": [
+    "https://www.axis.bank.in/cards/debit-card/burgundy-debit-card",
+    "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-bookmyshow-offer-on-burgundy-debit-card31-march23.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-burgundy-debit-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Burgundy Private"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:53:17.670469+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-burgundy-private-cc-bms-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis Burgundy Private",
+   "min_tickets": null,
+   "monthly_limit": 5,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "BookMyShow offer on Axis Bank Burgundy Private Credit Card",
+    "category": "BookMyShow offer on Axis Bank Burgundy Private Credit Card",
+    "channel": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "display_name": "This benefit can be availed for a maximum of 5 times each for movie and non - movie tickets in a month per Axis Bank Burgundy Private Credit Card",
+    "how_to_redeem": "Click on 'Select Offer' and click on 'Axis Bank Credit Card offer'",
+    "instrument": "BookMyShow offer on Axis Bank Burgundy Private Credit Card",
+    "issuer": "BookMyShow offer on Axis Bank Burgundy Private Credit Card",
+    "kind": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "monthly_limit": "This benefit can be availed for a maximum of 5 times each for movie and non - movie tickets in a month per Axis Bank Burgundy Private Credit Card",
+    "platform": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "value": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "variants_scope": "BookMyShow offer on Axis Bank Burgundy Private Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/docs/default-source/burgundyprivate/cr_le5_bookmyshow_tnc.pdf",
+   "terms_urls": [
+    "https://www.axis.bank.in/docs/default-source/burgundyprivate/cr_le5_bookmyshow_tnc.pdf",
+    "https://www.axis.bank.in/burgundy-private/the-one-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-burgundy-private-cc-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹650",
+   "card_variants": [
+    "Burgundy Private"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:52:56.295201+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-burgundy-private-debit-bms-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis Burgundy Private Debit",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "With effect from 1 0 th Dec 2026, BookMyShow access benefits will be based on Debit Card spends. To access complimentary offers minimum spends required will be Rs. 10,000 over the previous 3 calendar months",
+   "quotes": {
+    "card_variants": "For more details on the BookMyShow offer on your Burgundy Private Debit Card",
+    "category": "For more details on the BookMyShow offer on your Burgundy Private Debit Card",
+    "conditions:new_card_spend_waiver": "In case of a newly issued Debit Card, the minimum spend criteria is waived for the month of issuance followed by the next 3 calendar months",
+    "display_name": "For more details about the insurance program on your Axis Bank Burgundy Private Debit Card",
+    "instrument": "For more details on the BookMyShow offer on your Burgundy Private Debit Card",
+    "issuer": "For more details about the insurance program on your Axis Bank Burgundy Private Debit Card",
+    "kind": "Offer: Avail Buy One, Get One movie and non - movie tickets every month via BookMyShow",
+    "platform": "Offer: Avail Buy One, Get One movie and non - movie tickets every month via BookMyShow",
+    "quota_note": "With effect from 1 0 th Dec 2026, BookMyShow access benefits will be based on Debit Card spends. To access complimentary offers minimum spends required will be Rs. 10,000 over the previous 3 calendar months",
+    "value": "Complimentary 6 movie tickets (capped at INR 650 each) and 4 nonmovie tickets (capped at INR 1000 each)",
+    "variants_scope": "For more details on the BookMyShow offer on your Burgundy Private Debit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://campaign.axis.bank.in/generic/terms-and-conditions-for-revision-of-axis-bank-burgundy-private-debit-card.pdf",
+   "terms_urls": [
+    "https://campaign.axis.bank.in/generic/terms-and-conditions-for-revision-of-axis-bank-burgundy-private-debit-card.pdf",
+    "https://campaign.axis.bank.in/generic/credit-cards/terms-and-conditions-for-axis-bank-burgundy-private-debit-cards.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-burgundy-private-debit-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 650
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100 a month",
+   "card_variants": [
+    "IndianOil"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:53:38.897039+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-indianoil-bms-10pct",
+   "issuer": "Axis",
+   "kind": "pct",
+   "label": "Axis IndianOil",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "Benefit is applicable upon achieving ₹ 25,000 spends in the preceding 3 calendar months",
+   "quotes": {
+    "card_variants": "IndianOil Axis Bank Credit Card BookMyShow Offer Terms and Conditions",
+    "category": "IndianOil Axis Bank Credit Card BookMyShow Offer Terms and Conditions",
+    "display_name": "IndianOil Axis Bank Credit Card BookMyShow Offer Terms and Conditions",
+    "instrument": "IndianOil Axis Bank Credit Card BookMyShow Offer Terms and Conditions",
+    "issuer": "IndianOil Axis Bank Credit Card BookMyShow Offer Terms and Conditions",
+    "kind": "Offer: 10% off on every purchase of movie ticket on BookMyShow with maximum monthly benefit up to ₹100",
+    "platform": "IndianOil Axis Bank Credit Card BookMyShow Offer Terms and Conditions",
+    "quota_note": "Benefit is applicable upon achieving ₹ 25,000 spends in the preceding 3 calendar months",
+    "value": [
+     "Offer: 10% off on every purchase of movie ticket on BookMyShow with maximum monthly benefit up to ₹100",
+     "Each customer ca n get a maximum discount of Rs. 100 per month"
+    ],
+    "variants_scope": "IndianOil Axis Bank Credit Card BookMyShow Offer Terms and Conditions"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/docs/default-source/default-document-library/indianoil-axis-bank-offer-t-c.pdf",
+   "terms_urls": [
+    "https://www.axis.bank.in/docs/default-source/default-document-library/indianoil-axis-bank-offer-t-c.pdf",
+    "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-indianoil-bms-10pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "cap_unit": "month",
+    "pct": 10
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200 a month",
+   "card_variants": [
+    "MY ZONE"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:40:57.667777+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": "AXIS200",
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-myzone-district-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis MY ZONE",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "district",
+   "quota_note": "Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months",
+   "quotes": {
+    "card_variants": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+    "category": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+    "code": "Remember to apply the coupon code AXIS200 to receive this discount",
+    "conditions:new_card_spend_waiver": "In the case of a newly issued card, the minimum spends criteria is waived for the month of card issuance as well as the following 3 calendar months",
+    "display_name": "Axis Bank My Zone Credit Card",
+    "how_to_redeem": "Remember to apply the coupon code AXIS200 to receive this discount",
+    "instrument": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+    "issuer": "Axis Bank My Zone Credit Card",
+    "kind": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+    "monthly_limit": "Offer Valid once a month",
+    "platform": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+    "quota_note": "Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months",
+    "value": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+    "variants_scope": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+   "terms_urls": [
+    "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-myzone-cc-bogo-free-district-offer.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-myzone-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 200,
+    "cap_unit": "month"
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100 a month",
+   "card_variants": [
+    "NEO"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:50.767085+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-neo-bms-10pct",
+   "issuer": "Axis",
+   "kind": "pct",
+   "label": "Axis NEO",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "you need to spend INR 25,000 in the previous 3 months",
+   "quotes": {
+    "card_variants": "Offers Related to Axis Bank NEO Credit Card",
+    "category": "Offers Related to Axis Bank NEO Credit Card",
+    "channel": "Eligible Axis Bank Neo Credit cardholders will get a 10% discount per transaction on the tickets purchased through www.bookmyshow.com or on the BookMy S how mobile app",
+    "conditions:new_card_spend_waiver": "In the case of a newly issued card, the minimum spends criteria is waived for the month of card issuance as well as the following 3 calendar months",
+    "display_name": "Offers Related to Axis Bank NEO Credit Card",
+    "instrument": "Offers Related to Axis Bank NEO Credit Card",
+    "issuer": "Offers Related to Axis Bank NEO Credit Card",
+    "kind": "Eligible Axis Bank Neo Credit cardholders will get a 10% discount per transaction on the tickets purchased through www.bookmyshow.com or on the BookMy S how mobile app",
+    "platform": "Eligible Axis Bank Neo Credit cardholders will get a 10% discount per transaction on the tickets purchased through www.bookmyshow.com or on the BookMy S how mobile app",
+    "quota_note": "you need to spend INR 25,000 in the previous 3 months",
+    "value": [
+     "Eligible Axis Bank Neo Credit cardholders will get a 10% discount per transaction on the tickets purchased through www.bookmyshow.com or on the BookMy S how mobile app",
+     "Each customer can get a maximum discount of Rs. 100 per month"
+    ],
+    "variants_scope": "Offers Related to Axis Bank NEO Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/docs/default-source/default-document-library/axis-bank-neo-power-of-10.pdf",
+   "terms_urls": [
+    "https://www.axis.bank.in/docs/default-source/default-document-library/axis-bank-neo-power-of-10.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-neo-bms-10pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "cap_unit": "month",
+    "pct": 10
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹650",
+   "card_variants": [
+    "Olympus"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:52:34.492292+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "individual cinema sites"
+   ],
+   "id": "axis-olympus-bms-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis Olympus",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "The benefit is applicable only on Axis Bank Olympus primary credit cards",
+    "category": "The benefit is applicable only on Axis Bank Olympus primary credit cards",
+    "channel": "On every movie ticket bought on BookMyShow website/Mobile App, customer will get up to Rs.650 off and on every non - movie ticket up to Rs. 1000 off on the second ticket",
+    "display_name": "Terms and Conditions for Axis Bank Olympus Credit Card",
+    "excludes": "This offer is valid only for users coming directly to the BookMyShow, website/ mobile app and not via individual cinema sites",
+    "instrument": "The benefit is applicable only on Axis Bank Olympus primary credit cards",
+    "issuer": "The benefit is applicable only on Axis Bank Olympus primary credit cards",
+    "kind": "On every movie ticket bought on BookMyShow website/Mobile App, customer will get up to Rs.650 off and on every non - movie ticket up to Rs. 1000 off on the second ticket",
+    "monthly_limit": "This benefit can be availed for a maximum of 2 times for movie tickets and 2 times for non - movie tickets in a month per customer",
+    "platform": "On every movie ticket bought on BookMyShow website/Mobile App, customer will get up to Rs.650 off and on every non - movie ticket up to Rs. 1000 off on the second ticket",
+    "validity_note": "11.2. Validity : It is an ongoing benefit and will be valid till the card is active",
+    "value": "On every movie ticket bought on BookMyShow website/Mobile App, customer will get up to Rs.650 off and on every non - movie ticket up to Rs. 1000 off on the second ticket",
+    "variants_scope": "The benefit is applicable only on Axis Bank Olympus primary credit cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-olympus-credit-card.pdf",
+   "terms_urls": [
+    "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-olympus-credit-card.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-olympus-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 650
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹350 a month",
+   "card_variants": [
+    "Priority"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:54:00.446712+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-priority-debit-bms-25pct",
+   "issuer": "Axis",
+   "kind": "pct",
+   "label": "Axis Priority Debit",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "BookMyShow offer of 25% discount on movie tickets can be availed in a single transaction only. Offer eligibility based on spends of ₹10,000 in the previous 3 calendar months",
+   "quotes": {
+    "card_variants": "The benefits of Axis Bank’s Priority Debit Card include discounts on movies",
+    "category": "The benefits of Axis Bank’s Priority Debit Card include discounts on movies",
+    "channel": "Enjoy a 25% discount on movie tickets booked through BookMyShow (website or mobile app). Maximum discount is up to ₹350 per month",
+    "conditions:new_card_spend_waiver": "In case of a newly issued Debit Card, the minimum spend criteria is waived for the month of issuance followed by the next 3 calendar months",
+    "display_name": "The benefits of Axis Bank’s Priority Debit Card include discounts on movies",
+    "instrument": "The benefits of Axis Bank’s Priority Debit Card include discounts on movies",
+    "issuer": "The benefits of Axis Bank’s Priority Debit Card include discounts on movies",
+    "kind": "Enjoy a 25% discount on movie tickets booked through BookMyShow (website or mobile app). Maximum discount is up to ₹350 per month",
+    "platform": "Enjoy a 25% discount on movie tickets booked through BookMyShow (website or mobile app). Maximum discount is up to ₹350 per month",
+    "quota_note": "BookMyShow offer of 25% discount on movie tickets can be availed in a single transaction only. Offer eligibility based on spends of ₹10,000 in the previous 3 calendar months",
+    "value": "Enjoy a 25% discount on movie tickets booked through BookMyShow (website or mobile app). Maximum discount is up to ₹350 per month",
+    "variants_scope": "The benefits of Axis Bank’s Priority Debit Card include discounts on movies"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/cards/debit-card/priority-debit-card",
+   "terms_urls": [
+    "https://www.axis.bank.in/cards/debit-card/priority-debit-card",
+    "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-priority-debit-card.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-priority-debit-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 350,
+    "cap_unit": "month",
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "Privilege"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:47:02.762353+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": "AXISPRIVILEGE",
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-privilege-district-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis Privilege",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "district",
+   "quota_note": "Applicable on spends of 25K in previous 3 calendar months",
+   "quotes": {
+    "card_variants": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "category": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "channel": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "code": "Apply the code AXISPRIVILEGE to get this discount",
+    "conditions:new_card_spend_waiver": "In the case of a newly issued card, the minimum spends criteria is waived for the month of card issuance as well as the following 3 calendar months",
+    "display_name": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "how_to_redeem": "Apply the code AXISPRIVILEGE to get this discount",
+    "instrument": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "issuer": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "kind": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "monthly_limit": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "platform": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "quota_note": "Applicable on spends of 25K in previous 3 calendar months",
+    "value": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month.",
+    "variants_scope": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card. Get up to Rs. 250 off, valid once a month."
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+   "terms_urls": [
+    "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "https://www.axis.bank.in/docs/default-source/default-document-library/district-bogo-terms-and-conditions.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-privilege-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 250
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Reserve"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:46:41.772489+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "individual cinema sites"
+   ],
+   "id": "axis-reserve-bms-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis Reserve",
+   "min_tickets": null,
+   "monthly_limit": 5,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "Terms and Conditions for BookMyShow offer on Axis Bank RESERVE Credit Card",
+    "category": "Terms and Conditions for BookMyShow offer on Axis Bank RESERVE Credit Card",
+    "channel": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "display_name": "This benefit can be availed for a maximum of 5 times in a month per Axis Bank Reserve Credit Card",
+    "excludes": "This offer is valid only for users coming directly to the BookMyShow, website/ mobile app and not via individual cinema sites",
+    "how_to_redeem": "click on 'Axis Bank Credit Card offer' from the offers drop down list",
+    "instrument": "Terms and Conditions for BookMyShow offer on Axis Bank RESERVE Credit Card",
+    "issuer": "Terms and Conditions for BookMyShow offer on Axis Bank RESERVE Credit Card",
+    "kind": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "monthly_limit": "This benefit can be availed for a maximum of 5 times in a month per Axis Bank Reserve Credit Card",
+    "platform": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "validity_note": "Offer validity: It is an ongoing benefit and will be valid till the card is active",
+    "value": "On purchase of one movie/non - movie ticket on BookMyShow App and website, customer can avail upto Rs.500 off on the second ticket (movie bookings)",
+    "variants_scope": "Terms and Conditions for BookMyShow offer on Axis Bank RESERVE Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/docs/default-source/reserve-credit-card/rc_bookmyshow_reserve.pdf",
+   "terms_urls": [
+    "https://www.axis.bank.in/docs/default-source/reserve-credit-card/rc_bookmyshow_reserve.pdf",
+    "https://www.axis.bank.in/cards/credit-card/reserve-credit-card/indulge-in-the-extra-ordinary"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-reserve-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "Select"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:40:34.762587+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": "AXISSELECT",
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "axis-select-district-bogo",
+   "issuer": "Axis",
+   "kind": "bogo",
+   "label": "Axis Select",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "district",
+   "quota_note": "Effective 1st Nov 2026, access to the Movie Offer will be subject to a minimum eligible spend of 25,000 in the preceding 3 calendar months",
+   "quotes": {
+    "card_variants": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "category": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "channel": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "code": "Apply the code AXISSELECT to get this discount",
+    "conditions:new_card_spend_waiver": "For newly issued cards, the minimum spend criteria shall be waived for the month of card issuance and the subsequent 3 calendar months",
+    "display_name": "The Axis Bank SELECT Credit Card fees",
+    "how_to_redeem": "Apply the code AXISSELECT to get this discount",
+    "instrument": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "issuer": "Axis Bank Select Credit Card",
+    "kind": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "monthly_limit": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "platform": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "quota_note": "Effective 1st Nov 2026, access to the Movie Offer will be subject to a minimum eligible spend of 25,000 in the preceding 3 calendar months",
+    "value": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+    "variants_scope": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+   "terms_urls": [
+    "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+    "https://campaign.axis.bank.in/2026/cs/mbpush/july/ip_july26_108_spend_based_movie_offer.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/axis-select-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 250
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Elite"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:42:53.018378+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [
+    "Events, Concerts, Plays, Sports and Activities, BMS Stream and F&B"
+   ],
+   "id": "bandhan-elite-debit-bms-bogo",
+   "issuer": "Bandhan",
+   "kind": "bogo",
+   "label": "Bandhan Elite Debit",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "Maximum discount per card per month is capped at INR 500",
+   "quotes": {
+    "card_variants": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card",
+    "category": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card",
+    "channel": "The offer can be availed for booking of movie tickets on BookMyShow app/web",
+    "days": "Offer valid on all days of the week",
+    "display_name": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card",
+    "excludes": "Offer is valid on Movies, Excluding Events, Concerts, Plays, Sports and Activities, BMS Stream and F&B",
+    "how_to_redeem": "Choose \"Bandhan Bank Elite Debit Card Offer\" from the list",
+    "instrument": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card",
+    "issuer": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card",
+    "kind": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card",
+    "monthly_limit": "Offer valid twice per card per month during the offer duration",
+    "platform": "The offer can be availed for booking of movie tickets on BookMyShow app/web",
+    "quota_note": "Maximum discount per card per month is capped at INR 500",
+    "valid_to": "Offer Validity: Till 31st March 2027",
+    "value": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card",
+    "variants_scope": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 500 with Bandhan Bank Elite Debit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://bandhan.bank.in/sites/default/files/2026-07/Terms-and-Conditions-for-Bandhan-Bank-Elite-Debit-Card-Offer-on-BookMyShow.pdf",
+   "terms_urls": [
+    "https://bandhan.bank.in/sites/default/files/2026-07/Terms-and-Conditions-for-Bandhan-Bank-Elite-Debit-Card-Offer-on-BookMyShow.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/bandhan-elite-debit-bms-bogo/",
+   "valid_from": null,
+   "valid_to": "2027-03-31",
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹350",
+   "card_variants": [
+    "Mastercard Platinum Plus"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:43:19.358737+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [
+    "Events, Concerts, Plays, Sports and Activities, BMS Stream and F&B"
+   ],
+   "id": "bandhan-mastercard-platinum-plus-debit-bms-bogo",
+   "issuer": "Bandhan",
+   "kind": "bogo",
+   "label": "Bandhan Mastercard Platinum Plus Debit",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card",
+    "category": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card",
+    "channel": "The offer can be availed for booking of movie tickets on BookMyShow app/web",
+    "days": "Offer valid on all days of the week",
+    "display_name": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card",
+    "excludes": "Offer is valid on Movies, Excluding Events, Concerts, Plays, Sports and Activities, BMS Stream and F&B",
+    "how_to_redeem": "Choose \"Bandhan Bank Mastercard Platinum Plus Debit Card Offer\" from the list",
+    "instrument": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card",
+    "issuer": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card",
+    "kind": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card",
+    "monthly_limit": "Offer valid once per card per month during the offer duration",
+    "platform": "The offer can be availed for booking of movie tickets on BookMyShow app/web",
+    "valid_to": "Offer Validity: Till 31 March 2027",
+    "value": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card",
+    "variants_scope": "Buy 1 movie ticket and get 1 Free movie ticket up to INR 350 with Bandhan Bank Mastercard Platinum Plus Debit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://bandhan.bank.in/sites/default/files/2026-03/Terms-and-Conditions-for-Bandhan-Bank-Mastercard-Platinum-Plus-Debit-Card-Offer-on-Book-My-Show.pdf",
+   "terms_urls": [
+    "https://bandhan.bank.in/sites/default/files/2026-03/Terms-and-Conditions-for-Bandhan-Bank-Mastercard-Platinum-Plus-Debit-Card-Offer-on-Book-My-Show.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/bandhan-mastercard-platinum-plus-debit-bms-bogo/",
+   "valid_from": null,
+   "valid_to": "2027-03-31",
+   "value": {
+    "free_cap": 350
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Vantage"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:42:24.336595+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": "booking",
+   "days": [
+    "fri",
+    "sat",
+    "sun"
+   ],
+   "excludes": [
+    "BookMyShow (BMS) Stream",
+    "food and beverages"
+   ],
+   "id": "dbs-vantage-bms-50pct",
+   "issuer": "DBS",
+   "kind": "pct",
+   "label": "DBS Vantage",
+   "min_tickets": 2,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "Maximum discount per card in a calendar month is INR1000",
+   "quotes": {
+    "card_variants": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "category": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "channel": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "day_basis": [
+     "Offer can be availed only on Friday, Saturday and Sunday",
+     "minimum purchase of 2 ticket bookings"
+    ],
+    "days": "Offer can be availed only on Friday, Saturday and Sunday",
+    "display_name": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "excludes": "Offer is not applicable on BookMyShow (BMS) Stream and food and beverages",
+    "how_to_redeem": "Click on 'Select Offer' and choose \"DBS Bank Credit Card Offer\"",
+    "instrument": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "issuer": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "kind": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "min_tickets": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "monthly_limit": "This Offer can be availed twice per card per Customer in a calendar month",
+    "platform": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "quota_note": "Maximum discount per card in a calendar month is INR1000",
+    "valid_to": "Till 3 1 st December 202 6",
+    "value": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website",
+    "variants_scope": "Get 50% Off up to INR 500 with DBS Vantage Credit Card on minimum purchase of 2 ticket bookings using BookMyShow mobile App /website"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.dbs.bank.in/in/credit-cards/bookmyshow-offer-tnc.pdf",
+   "terms_urls": [
+    "https://www.dbs.bank.in/in/credit-cards/bookmyshow-offer-tnc.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/dbs-vantage-bms-50pct/",
+   "valid_from": null,
+   "valid_to": "2026-12-31",
+   "value": {
+    "cap": 500,
+    "pct": 50
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "Diners Club Privilege"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:45:12.605359+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": "show",
+   "days": [
+    "fri",
+    "sat",
+    "sun"
+   ],
+   "excludes": [
+    "BMS Stream & F&B"
+   ],
+   "id": "hdfc-diners-privilege-bms-bogo",
+   "issuer": "HDFC Bank",
+   "kind": "bogo",
+   "label": "HDFC Bank Diners Club Privilege",
+   "min_tickets": 2,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "HDFC Bank Diners Club Privilege Credit Card Frequently Asked Questions & Terms and Conditions",
+    "category": "HDFC Bank Diners Club Privilege Credit Card Frequently Asked Questions & Terms and Conditions",
+    "channel": "Offer is applicable for bookings via BookMyShow website and mobile app",
+    "day_basis": "Offer is valid for shows on Friday/Saturday/Sunday (irrespective of booking day)",
+    "days": "Offer is valid for shows on Friday/Saturday/Sunday (irrespective of booking day)",
+    "display_name": "HDFC Bank Diners Club Privilege Credit Card Frequently Asked Questions & Terms and Conditions",
+    "excludes": "Offer is valid on Movies, Events, Concerts, Plays, Sports & Activities, Excluding BMS Stream & F&B",
+    "how_to_redeem": "the website/app will recognize the eligible card & reduce the bill amount",
+    "instrument": "HDFC Bank Diners Club Privilege Credit Card Frequently Asked Questions & Terms and Conditions",
+    "issuer": "HDFC Bank Diners Club Privilege Credit Card Frequently Asked Questions & Terms and Conditions",
+    "kind": "Maximum discount which can be availed is Rs. 250 per ticket and up to 2 free tickets per calendar month",
+    "min_tickets": "Offer is valid on purchase of minimum 2 tickets",
+    "monthly_limit": "Maximum discount which can be availed is Rs. 250 per ticket and up to 2 free tickets per calendar month",
+    "platform": "Offer is applicable for bookings via BookMyShow website and mobile app",
+    "value": "Maximum discount which can be availed is Rs. 250 per ticket and up to 2 free tickets per calendar month",
+    "variants_scope": "HDFC Bank Diners Club Privilege Credit Card Frequently Asked Questions & Terms and Conditions"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/personal-banking/discover-products/cards/credit-cards/diners-privilege-credit-card/pdf/diners-privilege-tnc-2026.pdf",
+   "terms_urls": [
+    "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/personal-banking/discover-products/cards/credit-cards/diners-privilege-credit-card/pdf/diners-privilege-tnc-2026.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/hdfc-diners-privilege-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 250
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹1000 a month",
+   "card_variants": [],
+   "category": "events",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:39:25.878535+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "Movies and Streams"
+   ],
+   "id": "hsbc-allcards-bms-events-10pct",
+   "issuer": "HSBC",
+   "kind": "pct",
+   "label": "HSBC credit cards",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": "The offer will be applicable for first 1,000 transactions per month",
+   "quotes": {
+    "category": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+    "channel": "only on BookMyShow mobile application",
+    "conditions:full_payment_on_card": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer",
+    "conditions:no_wallet": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer",
+    "conditions:overdue_cards_excluded": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date",
+    "display_name": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+    "excludes": "This offer is not valid on Movies and Streams",
+    "instrument": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+    "issuer": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+    "kind": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+    "monthly_limit": "The offer is valid once per card per month",
+    "platform": "only on BookMyShow mobile application",
+    "quota_note": "The offer will be applicable for first 1,000 transactions per month",
+    "show_days": "The offer is valid on all days of the week",
+    "valid_from": "During the period from 1 July 2026 to 31 December 2026",
+    "valid_to": "During the period from 1 July 2026 to 31 December 2026",
+    "value": "10% off on live events, up to ₹1000/month on all HSBC Credit Cards",
+    "variants_scope": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets"
+   },
+   "requires_purchase": null,
+   "show_days": [
+    "any"
+   ],
+   "source_url": "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/",
+   "terms_urls": [
+    "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/"
+   ],
+   "url": "https://bookmyfdfs.in/offer/hsbc-allcards-bms-events-10pct/",
+   "valid_from": "2026-07-01",
+   "valid_to": "2026-12-31",
+   "value": {
+    "cap": 1000,
+    "cap_unit": "month",
+    "pct": 10
+   },
+   "variants_scope": "all"
+  },
+  {
+   "cap_text": "up to ₹750",
+   "card_variants": [
+    "Premier"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:39:25.878535+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [
+    "corporate cardholders"
+   ],
+   "id": "hsbc-premier-bms-bogo",
+   "issuer": "HSBC",
+   "kind": "bogo",
+   "label": "HSBC Premier Mastercard",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+    "category": "using their valid HSBC Credit Card issued in India only",
+    "channel": "only on BookMyShow mobile application",
+    "conditions:full_payment_on_card": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer",
+    "conditions:no_wallet": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer",
+    "conditions:overdue_cards_excluded": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date",
+    "days": "only for Premier Credit Cardholders on all days of the week",
+    "display_name": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+    "excludes": "excluding corporate cardholders",
+    "instrument": "using their valid HSBC Credit Card issued in India only",
+    "issuer": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+    "kind": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+    "monthly_limit": "The offer is valid twice per card per month",
+    "network": "Only HSBC Premier Mastercard credit cardholders can avail the offer even after the first 2000 bookings have been done on a given Saturday and can avail the offer on other week days",
+    "platform": "only on BookMyShow mobile application",
+    "valid_from": "During the period from 1 July 2026 to 31 December 2026",
+    "valid_to": "During the period from 1 July 2026 to 31 December 2026",
+    "value": "A maximum of two free tickets worth up to INR750 each can be booked in a calendar month",
+    "variants_scope": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/",
+   "terms_urls": [
+    "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/"
+   ],
+   "url": "https://bookmyfdfs.in/offer/hsbc-premier-bms-bogo/",
+   "valid_from": "2026-07-01",
+   "valid_to": "2026-12-31",
+   "value": {
+    "free_cap": 750
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:39:25.878535+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": "booking",
+   "days": [
+    "sat"
+   ],
+   "excludes": [
+    "corporate cardholders"
+   ],
+   "id": "hsbc-select-bms-saturday-bogo",
+   "issuer": "HSBC",
+   "kind": "bogo",
+   "label": "Select HSBC credit cards",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": "Only the first 2,000 HSBC Credit Cardholders booking on a Saturday can avail the offer",
+   "quotes": {
+    "category": "using their valid HSBC Credit Card issued in India only",
+    "channel": "only on BookMyShow mobile application",
+    "conditions:full_payment_on_card": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer",
+    "conditions:no_wallet": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer",
+    "conditions:overdue_cards_excluded": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date",
+    "day_basis": "needs to be booked on a Saturday only",
+    "days": "needs to be booked on a Saturday only",
+    "display_name": "using their valid HSBC Credit Card issued in India only",
+    "excludes": "excluding corporate cardholders",
+    "how_to_redeem": "Select the \"HSBC Saturday offer: BOGO on Mobile App\" in the other offers section",
+    "instrument": "using their valid HSBC Credit Card issued in India only",
+    "issuer": "Buy One Get One offer on booking movie tickets on Saturdays using select HSBC Credit Cards",
+    "kind": "Buy One Get One offer on booking movie tickets on Saturdays using select HSBC Credit Cards",
+    "monthly_limit": "Offer can be used only once per card per calendar month on other HSBC credit card variants",
+    "platform": "only on BookMyShow mobile application",
+    "quota_note": "Only the first 2,000 HSBC Credit Cardholders booking on a Saturday can avail the offer",
+    "show_days": "applicable on tickets for a show on any day of the week",
+    "valid_from": "During the period from 1 July 2026 to 31 December 2026",
+    "valid_to": "During the period from 1 July 2026 to 31 December 2026",
+    "value": "The maximum price of the free ticket is INR250 for select HSBC Credit Cards",
+    "variants_scope": "Buy One Get One offer on booking movie tickets on Saturdays using select HSBC Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [
+    "any"
+   ],
+   "source_url": "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/",
+   "terms_urls": [
+    "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/"
+   ],
+   "url": "https://bookmyfdfs.in/offer/hsbc-select-bms-saturday-bogo/",
+   "valid_from": "2026-07-01",
+   "valid_to": "2026-12-31",
+   "value": {
+    "free_cap": 250
+   },
+   "variants_scope": "unstated"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "Adani One ICICI Bank Platinum"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:50:22.439685+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-adani-one-platinum-card-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Adani One ICICI Bank Platinum",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spends of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your Adani One ICICI Bank Platinum Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your Adani One ICICI Bank Platinum Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your Adani One ICICI Bank Platinum Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your Adani One ICICI Bank Platinum Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards",
+    "kind": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "value": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your Adani One ICICI Bank Platinum Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-adani-one-platinum-card-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Adani One Signature"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:49:59.951895+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-adani-one-signature-card-bms-bogo",
+   "issuer": "ICICI",
+   "kind": "bogo",
+   "label": "ICICI Adani One Signature",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your Adani One Signature Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your Adani One Signature Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your Adani One Signature Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your Adani One Signature Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards",
+    "kind": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "value": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your Adani One Signature Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-adani-one-signature-card-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "Coral"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:45:26.086087+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-coral-card-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Coral",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spends of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "Coral Credit Card: Maximum benefits",
+    "category": "Coral Credit Card: Maximum benefits",
+    "display_name": "The ICICI Bank Coral Credit Card offers",
+    "instrument": "Coral Credit Card: Maximum benefits",
+    "issuer": "The ICICI Bank Coral Credit Card offers",
+    "kind": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "value": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "Coral Credit Card: Maximum benefits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-coral-card-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹125",
+   "card_variants": [
+    "Coral"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:48:34.977089+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-coral-debit-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Coral Debit",
+   "min_tickets": 2,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "Coral Debit Card: Maximum Benefits",
+    "category": "Coral Debit Card: Maximum Benefits",
+    "display_name": "The ICICI Bank Coral Debit Card offers",
+    "instrument": "Coral Debit Card: Maximum Benefits",
+    "issuer": "The ICICI Bank Coral Debit Card offers",
+    "kind": "25% off upto ₹125 Get 25% off on a purchase of two tickets through BookMyShow",
+    "min_tickets": "25% off upto ₹125 Get 25% off on a purchase of two tickets through BookMyShow",
+    "platform": "25% off upto ₹125 Get 25% off on a purchase of two tickets through BookMyShow",
+    "value": "25% off upto ₹125 Get 25% off on a purchase of two tickets through BookMyShow",
+    "variants_scope": "Coral Debit Card: Maximum Benefits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/debit-card/coral-debit-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/debit-card/coral-debit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-coral-debit-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 125,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "Chennai Super Kings"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:51:30.813904+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-csk-card-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Chennai Super Kings",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spends of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your Chennai Super Kings ICICI Bank Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your Chennai Super Kings ICICI Bank Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your Chennai Super Kings ICICI Bank Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your Chennai Super Kings ICICI Bank Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards",
+    "kind": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "value": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your Chennai Super Kings ICICI Bank Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/csk-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/csk-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-csk-card-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹750",
+   "card_variants": [
+    "Emeralde"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:46:30.887747+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-emeralde-card-bms-bogo",
+   "issuer": "ICICI",
+   "kind": "bogo",
+   "label": "ICICI Emeralde",
+   "min_tickets": null,
+   "monthly_limit": 4,
+   "platform": "bms",
+   "quota_note": "on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "Emeralde Credit Card: Maximum Benefits",
+    "category": "Emeralde Credit Card: Maximum Benefits",
+    "display_name": "ICICI Bank Emeralde Credit Card FAQs",
+    "instrument": "Emeralde Credit Card: Maximum Benefits",
+    "issuer": "ICICI Bank Emeralde Credit Card FAQs",
+    "kind": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "value": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "Emeralde Credit Card: Maximum Benefits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-emeralde-card-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 750
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹750",
+   "card_variants": [
+    "Emirates Emeralde"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:49:16.107328+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-emirates-emeralde-card-bms-bogo",
+   "issuer": "ICICI",
+   "kind": "bogo",
+   "label": "ICICI Emirates Emeralde",
+   "min_tickets": null,
+   "monthly_limit": 4,
+   "platform": "bms",
+   "quota_note": "on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards",
+    "kind": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "value": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-emeralde",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-emeralde"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-emirates-emeralde-card-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 750
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Emirates Sapphiro"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:49:36.741472+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-emirates-sapphiro-card-bms-bogo",
+   "issuer": "ICICI",
+   "kind": "bogo",
+   "label": "ICICI Emirates Sapphiro",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards",
+    "kind": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "value": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-sapphiro",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-sapphiro"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-emirates-sapphiro-card-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "Expressions"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:51:52.306758+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-expressions-card-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Expressions",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spends of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your Expressions Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your Expressions Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your Expressions Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your Expressions Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards",
+    "kind": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "value": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your Expressions Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/content/icicibank-revamp/in/en/personal-banking/cards/credit-card/expressions-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/content/icicibank-revamp/in/en/personal-banking/cards/credit-card/expressions-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-expressions-card-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "HPCL Super Saver"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:51:06.491449+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-hpcl-super-saver-card-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI HPCL Super Saver",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spends of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your ICICI Bank HPCL Super Saver Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your ICICI Bank HPCL Super Saver Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your ICICI Bank HPCL Super Saver Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your ICICI Bank HPCL Super Saver Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards",
+    "kind": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "value": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your ICICI Bank HPCL Super Saver Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-super-saver",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-super-saver"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-hpcl-super-saver-card-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹150",
+   "card_variants": [
+    "MakeMyTrip"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:50:45.875874+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-makemytrip-card-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI MakeMyTrip",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spends of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding",
+    "category": "you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding",
+    "display_name": "you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding",
+    "instrument": "you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding",
+    "issuer": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards",
+    "kind": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "value": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-makemytrip-card-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 150,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹150",
+   "card_variants": [
+    "Rubyx"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:45:47.008954+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-rubyx-card-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Rubyx",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spends of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "Rubyx Credit Card: Maximum Benefits",
+    "category": "Rubyx Credit Card: Maximum Benefits",
+    "display_name": "The ICICI Bank Rubyx Credit Card is",
+    "instrument": "Rubyx Credit Card: Maximum Benefits",
+    "issuer": "The ICICI Bank Rubyx Credit Card is",
+    "kind": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "value": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "Rubyx Credit Card: Maximum Benefits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/rubyx-credit-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/rubyx-credit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-rubyx-card-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 150,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200",
+   "card_variants": [
+    "Rubyx"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:48:55.394415+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-rubyx-debit-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Rubyx Debit",
+   "min_tickets": 2,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "Rubyx Debit Card: Maximum Benefits",
+    "category": "Rubyx Debit Card: Maximum Benefits",
+    "display_name": "Rubyx Debit Card: Maximum Benefits",
+    "instrument": "Rubyx Debit Card: Maximum Benefits",
+    "issuer": "Zero Fuel surcharge on transactions done on ICICI Bank swipe machines",
+    "kind": "25% off upto ₹200 Get 25% off on a purchase of two tickets through BookMyShow",
+    "min_tickets": "25% off upto ₹200 Get 25% off on a purchase of two tickets through BookMyShow",
+    "platform": "25% off upto ₹200 Get 25% off on a purchase of two tickets through BookMyShow",
+    "value": "25% off upto ₹200 Get 25% off on a purchase of two tickets through BookMyShow",
+    "variants_scope": "Rubyx Debit Card: Maximum Benefits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/debit-card/rubyx-debit-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/debit-card/rubyx-debit-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-rubyx-debit-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 200,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Sapphiro"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:46:07.422914+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-sapphiro-card-bms-bogo",
+   "issuer": "ICICI",
+   "kind": "bogo",
+   "label": "ICICI Sapphiro",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": "on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+   "quotes": {
+    "card_variants": "Sapphiro Credit Card: Maximum Benefits",
+    "category": "Sapphiro Credit Card: Maximum Benefits",
+    "display_name": "The ICICI Bank Sapphiro Credit Card is",
+    "instrument": "Sapphiro Credit Card: Maximum Benefits",
+    "issuer": "The ICICI Bank Sapphiro Credit Card is",
+    "kind": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "monthly_limit": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "platform": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "quota_note": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "value": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter",
+    "variants_scope": "Sapphiro Credit Card: Maximum Benefits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-sapphiro-card-bms-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "Sapphiro"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:48:14.171034+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "icici-sapphiro-debit-bms-25pct",
+   "issuer": "ICICI",
+   "kind": "pct",
+   "label": "ICICI Sapphiro Debit",
+   "min_tickets": 2,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "ICICI Bank Sapphiro Debit Card: Maximum Benefits",
+    "category": "ICICI Bank Sapphiro Debit Card: Maximum Benefits",
+    "display_name": "The ICICI Bank Sapphiro Debit Card is",
+    "instrument": "ICICI Bank Sapphiro Debit Card: Maximum Benefits",
+    "issuer": "The ICICI Bank Sapphiro Debit Card is",
+    "kind": "25% off upto ₹250 Get 25% off on a purchase of two tickets through BookMyShow",
+    "min_tickets": "25% off upto ₹250 Get 25% off on a purchase of two tickets through BookMyShow",
+    "platform": "25% off upto ₹250 Get 25% off on a purchase of two tickets through BookMyShow",
+    "value": "25% off upto ₹250 Get 25% off on a purchase of two tickets through BookMyShow",
+    "variants_scope": "ICICI Bank Sapphiro Debit Card: Maximum Benefits"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.icici.bank.in/personal-banking/cards/debit-card/sapphiro",
+   "terms_urls": [
+    "https://www.icici.bank.in/personal-banking/cards/debit-card/sapphiro"
+   ],
+   "url": "https://bookmyfdfs.in/offer/icici-sapphiro-debit-bms-25pct/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 250,
+    "pct": 25
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹400",
+   "card_variants": [
+    "Ashva"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:47:38.372060+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "idfc-ashva-district-bogo",
+   "issuer": "IDFC FIRST",
+   "kind": "bogo",
+   "label": "IDFC FIRST Ashva",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "district",
+   "quota_note": "Note: Spend ₹20,000 in the current calendar month to avail the benefit in the next month, effective 18th June 2026",
+   "quotes": {
+    "card_variants": "Using the Ashva Credit Card, you get a buy-one-get-one movie offer with up to ₹400 off on the second ticket, twice a month",
+    "category": "Using the Ashva Credit Card, you get a buy-one-get-one movie offer with up to ₹400 off on the second ticket, twice a month",
+    "channel": "The benefit can be availed via District App by Zomato.",
+    "display_name": "Using the Ashva Credit Card, you get a buy-one-get-one movie offer with up to ₹400 off on the second ticket, twice a month",
+    "instrument": "Using the Ashva Credit Card, you get a buy-one-get-one movie offer with up to ₹400 off on the second ticket, twice a month",
+    "issuer": "IDFC FIRST Bank’s Ashva Credit Card",
+    "kind": "Avail a buy one get one free offer on Movie Tickets with up to ₹400 off on the second ticket, twice in a calendar month.",
+    "monthly_limit": "Avail a buy one get one free offer on Movie Tickets with up to ₹400 off on the second ticket, twice in a calendar month.",
+    "platform": "The benefit can be availed via District App by Zomato.",
+    "quota_note": "Note: Spend ₹20,000 in the current calendar month to avail the benefit in the next month, effective 18th June 2026",
+    "value": "Avail a buy one get one free offer on Movie Tickets with up to ₹400 off on the second ticket, twice in a calendar month.",
+    "variants_scope": "Using the Ashva Credit Card, you get a buy-one-get-one movie offer with up to ₹400 off on the second ticket, twice a month"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/ashva",
+   "terms_urls": [
+    "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/ashva"
+   ],
+   "url": "https://bookmyfdfs.in/offer/idfc-ashva-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 400
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "FIRST Classic"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:42:04.030230+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "other platform-specific promotional codes or bank offers"
+   ],
+   "id": "idfc-classic-district-bogo",
+   "issuer": "IDFC FIRST",
+   "kind": "bogo",
+   "label": "IDFC FIRST Classic",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "district",
+   "quota_note": "To avail Buy-One-Get-One movie offer, Spend ₹20,000 in the current calendar month to avail the benefit in the next month",
+   "quotes": {
+    "card_variants": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "category": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "channel": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "display_name": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "excludes": "BOGO and card-specific entertainment offers cannot be combined with other platform-specific promotional codes or bank offers",
+    "instrument": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "issuer": "IDFC FIRST Bank Credit Cards offer a variety of entertainment privileges, primarily focused on movie ticket savings through Buy-One-Get-One (BOGO) offers and exclusive discounts via the District app Zomato",
+    "kind": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "monthly_limit": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "platform": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "quota_note": "To avail Buy-One-Get-One movie offer, Spend ₹20,000 in the current calendar month to avail the benefit in the next month",
+    "value": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card",
+    "variants_scope": "Buy-One-Get-One offer on movie tickets up to ₹100 on District via Zomato mobile app (valid twice per month) on the FIRST Millennia Credit Card and FIRST Classic Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.idfcfirst.bank.in/credit-card/benefits/entertainment",
+   "terms_urls": [
+    "https://www.idfcfirst.bank.in/credit-card/benefits/entertainment"
+   ],
+   "url": "https://bookmyfdfs.in/offer/idfc-classic-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 100
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹500",
+   "card_variants": [
+    "Mayura"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:48:02.366792+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [],
+   "id": "idfc-mayura-district-bogo",
+   "issuer": "IDFC FIRST",
+   "kind": "bogo",
+   "label": "IDFC FIRST Mayura",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "district",
+   "quota_note": "Note: Spend ₹20,000 in the current calendar month to avail the benefit in the next month, effective 18th June 2026",
+   "quotes": {
+    "card_variants": "Using the Mayura Credit Card, you get a buy-one-get-one movie offer with up to ₹500 off on the second ticket, twice a month",
+    "category": "Using the Mayura Credit Card, you get a buy-one-get-one movie offer with up to ₹500 off on the second ticket, twice a month",
+    "channel": "The benefit can be availed via District App by Zomato.",
+    "display_name": "Using the Mayura Credit Card, you get a buy-one-get-one movie offer with up to ₹500 off on the second ticket, twice a month",
+    "instrument": "Using the Mayura Credit Card, you get a buy-one-get-one movie offer with up to ₹500 off on the second ticket, twice a month",
+    "issuer": "IDFC FIRST Bank’s Mayura Credit Card",
+    "kind": "Avail a buy one get one free offer on Movie Tickets with up to ₹500 off on the second ticket, twice in a calendar month.",
+    "monthly_limit": "Avail a buy one get one free offer on Movie Tickets with up to ₹500 off on the second ticket, twice in a calendar month.",
+    "platform": "The benefit can be availed via District App by Zomato.",
+    "quota_note": "Note: Spend ₹20,000 in the current calendar month to avail the benefit in the next month, effective 18th June 2026",
+    "value": "Avail a buy one get one free offer on Movie Tickets with up to ₹500 off on the second ticket, twice in a calendar month.",
+    "variants_scope": "Using the Mayura Credit Card, you get a buy-one-get-one movie offer with up to ₹500 off on the second ticket, twice a month"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/mayura",
+   "terms_urls": [
+    "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/mayura"
+   ],
+   "url": "https://bookmyfdfs.in/offer/idfc-mayura-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹125",
+   "card_variants": [
+    "FIRST Select"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:42:04.030230+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "other platform-specific promotional codes or bank offers"
+   ],
+   "id": "idfc-select-district-bogo",
+   "issuer": "IDFC FIRST",
+   "kind": "bogo",
+   "label": "IDFC FIRST Select",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "district",
+   "quota_note": "To avail Buy-One-Get-One movie offer, Spend ₹20,000 in the current calendar month to avail the benefit in the next month",
+   "quotes": {
+    "card_variants": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "category": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "channel": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "display_name": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "excludes": "BOGO and card-specific entertainment offers cannot be combined with other platform-specific promotional codes or bank offers",
+    "instrument": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "issuer": "IDFC FIRST Bank Credit Cards offer a variety of entertainment privileges, primarily focused on movie ticket savings through Buy-One-Get-One (BOGO) offers and exclusive discounts via the District app Zomato",
+    "kind": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "monthly_limit": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "platform": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "quota_note": "To avail Buy-One-Get-One movie offer, Spend ₹20,000 in the current calendar month to avail the benefit in the next month",
+    "value": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card",
+    "variants_scope": "Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month) on the FIRST Select Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.idfcfirst.bank.in/credit-card/benefits/entertainment",
+   "terms_urls": [
+    "https://www.idfcfirst.bank.in/credit-card/benefits/entertainment"
+   ],
+   "url": "https://bookmyfdfs.in/offer/idfc-select-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 125
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "FIRST Wealth",
+    "Diamond Reserve"
+   ],
+   "category": "card",
+   "channel": "app",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:42:04.030230+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "other platform-specific promotional codes or bank offers"
+   ],
+   "id": "idfc-wealth-diamond-district-bogo",
+   "issuer": "IDFC FIRST",
+   "kind": "bogo",
+   "label": "IDFC FIRST Wealth / Diamond Reserve",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "district",
+   "quota_note": "To avail Buy-One-Get-One movie offer, Spend ₹20,000 in the current calendar month to avail the benefit in the next month",
+   "quotes": {
+    "card_variants": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "category": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "channel": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "display_name": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "excludes": "BOGO and card-specific entertainment offers cannot be combined with other platform-specific promotional codes or bank offers",
+    "instrument": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "issuer": "IDFC FIRST Bank Credit Cards offer a variety of entertainment privileges, primarily focused on movie ticket savings through Buy-One-Get-One (BOGO) offers and exclusive discounts via the District app Zomato",
+    "kind": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "monthly_limit": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "platform": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "quota_note": "To avail Buy-One-Get-One movie offer, Spend ₹20,000 in the current calendar month to avail the benefit in the next month",
+    "value": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card",
+    "variants_scope": "Buy-One-Get-One offer on movie tickets up to ₹250 on the District via Zomato mobile app (valid twice per month) on the FIRST Wealth Credit Card and Diamond Reserve Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.idfcfirst.bank.in/credit-card/benefits/entertainment",
+   "terms_urls": [
+    "https://www.idfcfirst.bank.in/credit-card/benefits/entertainment"
+   ],
+   "url": "https://bookmyfdfs.in/offer/idfc-wealth-diamond-district-bogo/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 250
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹700",
+   "card_variants": [
+    "Crest"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:43:31.659969+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "any offer / discounts / promotions at the theatres"
+   ],
+   "id": "indusind-crest-bms-bogo",
+   "issuer": "IndusInd",
+   "kind": "bogo",
+   "label": "IndusInd Crest",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "The number of free tickets available daily are limited and customers can avail this offer on a First Come First Serve basis",
+   "quotes": {
+    "card_variants": "IndusInd Bank Crest Credit Card. Buy one movie ticket and get the other one absolutely free",
+    "category": "The free ticket price is capped at Rs. 700 for IndusInd Bank Credit Cards",
+    "display_name": "IndusInd Bank Crest Credit Card. Buy one movie ticket and get the other one absolutely free",
+    "excludes": "The offer cannot be combined with any offer / discounts / promotions at the theatres",
+    "instrument": "The free ticket price is capped at Rs. 700 for IndusInd Bank Credit Cards",
+    "issuer": "The Buy 1 Get 1 offer can be availed only when payments are made using a valid IndusInd Bank Credit Card",
+    "kind": "The free ticket price is capped at Rs. 700 for IndusInd Bank Credit Cards",
+    "platform": "Offer is applicable only for bookings for cinema tickets made on the BookmyShow website (www.bookmyshow.com)",
+    "quota_note": "The number of free tickets available daily are limited and customers can avail this offer on a First Come First Serve basis",
+    "valid_to": "The Offer is Valid till 31st March 2027",
+    "value": "The free ticket price is capped at Rs. 700 for IndusInd Bank Credit Cards",
+    "variants_scope": "IndusInd Bank Crest Credit Card. Buy one movie ticket and get the other one absolutely free"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.indusind.bank.in/in/en/microsites/crest/entertainment.html",
+   "terms_urls": [
+    "https://www.indusind.bank.in/in/en/microsites/crest/entertainment.html"
+   ],
+   "url": "https://bookmyfdfs.in/offer/indusind-crest-bms-bogo/",
+   "valid_from": null,
+   "valid_to": "2027-03-31",
+   "value": {
+    "free_cap": 700
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200",
+   "card_variants": [
+    "Eazydiner Platinum"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:40:23.100991+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "indusind-eazydiner-platinum-bms-bogo",
+   "issuer": "IndusInd",
+   "kind": "bogo",
+   "label": "IndusInd Eazydiner Platinum",
+   "min_tickets": 2,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+    "category": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+    "channel": [
+     "How to avail on Mobile",
+     "How to avail on Web"
+    ],
+    "conditions:bins:468936|35612929": "Eligible Bins: 468936 & 35612929",
+    "days": "Offer is valid on all days of the week",
+    "display_name": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+    "how_to_redeem": "Select the \"IndusInd Bank Credit Cards BOGO Movie Offer \"",
+    "instrument": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+    "issuer": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+    "kind": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+    "min_tickets": "Minimum 2 tickets need to be purchased in a single transaction",
+    "monthly_limit": "This offer can be availed once in a calendar month on Movies",
+    "platform": "BookMyShow Offer Terms & Conditions",
+    "valid_to": "Offer is valid till 31st March 2027",
+    "value": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+    "variants_scope": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.indusind.bank.in/in/en/personal/offer-tnc/bookmyshow-tnc.html",
+   "terms_urls": [
+    "https://www.indusind.bank.in/in/en/personal/offer-tnc/bookmyshow-tnc.html"
+   ],
+   "url": "https://bookmyfdfs.in/offer/indusind-eazydiner-platinum-bms-bogo/",
+   "valid_from": null,
+   "valid_to": "2027-03-31",
+   "value": {
+    "free_cap": 200
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹700",
+   "card_variants": [
+    "Indulge"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:43:53.869999+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "any offer / discounts / promotions at the theatres"
+   ],
+   "id": "indusind-indulge-bms-bogo",
+   "issuer": "IndusInd",
+   "kind": "bogo",
+   "label": "IndusInd Indulge",
+   "min_tickets": null,
+   "monthly_limit": 3,
+   "platform": "bms",
+   "quota_note": "The number of free tickets available daily are limited and customers can avail this offer on a First Come First Serve basis",
+   "quotes": {
+    "card_variants": "Now avail Buy 1 Get 1 free! Offer on IndusInd Bank Indulge Credit Card",
+    "category": "The free ticket price is capped at Rs. 700 for IndusInd Bank Indulge Credit Card",
+    "display_name": "Now avail Buy 1 Get 1 free! Offer on IndusInd Bank Indulge Credit Card",
+    "excludes": "The offer cannot be combined with any offer / discounts / promotions at the theatres",
+    "instrument": "The free ticket price is capped at Rs. 700 for IndusInd Bank Indulge Credit Card",
+    "issuer": "The Buy 1 Get 1 offer can be availed only when payments are made using a valid IndusInd Bank Indulge Credit Card",
+    "kind": "The free ticket price is capped at Rs. 700 for IndusInd Bank Indulge Credit Card",
+    "monthly_limit": "You can avail a maximum of 3 Free / Discounted tickets per month using your IndusInd Bank Indulge Credit Card offer",
+    "platform": "Offer is applicable only for bookings for cinema tickets made on the BookmyShow website (www.bookmyshow.com)",
+    "quota_note": "The number of free tickets available daily are limited and customers can avail this offer on a First Come First Serve basis",
+    "valid_to": "The Offer is Valid till 31st March 2027",
+    "value": "The free ticket price is capped at Rs. 700 for IndusInd Bank Indulge Credit Card",
+    "variants_scope": "Now avail Buy 1 Get 1 free! Offer on IndusInd Bank Indulge Credit Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.indusind.bank.in/in/en/microsites/indulge/pvr-know-more.html",
+   "terms_urls": [
+    "https://www.indusind.bank.in/in/en/microsites/indulge/pvr-know-more.html"
+   ],
+   "url": "https://bookmyfdfs.in/offer/indusind-indulge-bms-bogo/",
+   "valid_from": null,
+   "valid_to": "2027-03-31",
+   "value": {
+    "free_cap": 700
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "Platinum Choice",
+    "Blockbuster",
+    "Fun +",
+    "MoneyTap Black",
+    "Movies & More",
+    "Shoprite"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-10pct-15peryear-bms",
+   "issuer": "RBL Bank",
+   "kind": "pct",
+   "label": "RBL Bank Platinum Choice / Blockbuster / Fun + / MoneyTap Black / Movies & More / Shoprite",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "15 times/year",
+   "quotes": {
+    "card_variants": [
+     "Platinum Choice 10% discount, up to Rs. 100 All days 15 times/year",
+     "Blockbuster 10% discount, up to Rs. 100 All days 15 times/year",
+     "Fun + 10% discount, up to Rs. 100 All days 15 times/year",
+     "MoneyTap Black 10% discount, up to Rs. 100 All days 15 times/year",
+     "Movies & More 10% discount, up to Rs. 100 All days 15 times/year",
+     "Shoprite 10% discount, up to Rs. 100 All days 15 times/year"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Platinum Choice 10% discount, up to Rs. 100 All days 15 times/year",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Platinum Choice 10% discount, up to Rs. 100 All days 15 times/year",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "quota_note": "Platinum Choice 10% discount, up to Rs. 100 All days 15 times/year",
+    "value": "Platinum Choice 10% discount, up to Rs. 100 All days 15 times/year",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-10pct-15peryear-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "pct": 10
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹300",
+   "card_variants": [
+    "Cookies",
+    "Monthly Treats"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-10pct300-monthly-bms",
+   "issuer": "RBL Bank",
+   "kind": "pct",
+   "label": "RBL Bank Cookies / Monthly Treats",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "Cookies 10% discount, up to Rs. 300 All days Once a month",
+     "Monthly Treats 10% discount, up to Rs. 300 All days Once a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Cookies 10% discount, up to Rs. 300 All days Once a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Cookies 10% discount, up to Rs. 300 All days Once a month",
+    "monthly_limit": "Cookies 10% discount, up to Rs. 300 All days Once a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "Cookies 10% discount, up to Rs. 300 All days Once a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-10pct300-monthly-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 300,
+    "pct": 10
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200",
+   "card_variants": [
+    "Binge",
+    "CA",
+    "Freedom",
+    "Platinum Edge"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-bogo200-alldays-monthly-bms",
+   "issuer": "RBL Bank",
+   "kind": "bogo",
+   "label": "RBL Bank Binge / CA / Freedom / Platinum Edge",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "Binge Buy 1 ticket and get 1 free, up to Rs. 200, All days Once a month",
+     "CA Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+     "Freedom Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+     "Platinum Edge Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Binge Buy 1 ticket and get 1 free, up to Rs. 200, All days Once a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Binge Buy 1 ticket and get 1 free, up to Rs. 200, All days Once a month",
+    "monthly_limit": "Binge Buy 1 ticket and get 1 free, up to Rs. 200, All days Once a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "Binge Buy 1 ticket and get 1 free, up to Rs. 200, All days Once a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-bogo200-alldays-monthly-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 200
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200",
+   "card_variants": [
+    "Platinum LifeEasy",
+    "Platinum ShopSmart",
+    "World Max",
+    "World Select",
+    "Platinum Maxima Plus"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-bogo200-alldays-monthly-bms-2",
+   "issuer": "RBL Bank",
+   "kind": "bogo",
+   "label": "RBL Bank Platinum LifeEasy / Platinum ShopSmart / World Max / World Select / Platinum Maxima Plus",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "Platinum LifeEasy Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+     "Platinum ShopSmart Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+     "World Max Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+     "World Select Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+     "Platinum Maxima Plus Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Platinum LifeEasy Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Platinum LifeEasy Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+    "monthly_limit": "Platinum LifeEasy Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "Platinum LifeEasy Buy 1 ticket and get 1 free, up to Rs. 200 All days Once a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-bogo200-alldays-monthly-bms-2/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 200
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200",
+   "card_variants": [
+    "Platinum ShopGain",
+    "World Plus",
+    "World Prime",
+    "Icon"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-bogo200-alldays-twice-bms",
+   "issuer": "RBL Bank",
+   "kind": "bogo",
+   "label": "RBL Bank Platinum ShopGain / World Plus / World Prime / Icon",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "Platinum ShopGain Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month",
+     "World Plus Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month",
+     "World Prime Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month",
+     "Icon Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Platinum ShopGain Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Platinum ShopGain Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month",
+    "monthly_limit": "Platinum ShopGain Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "Platinum ShopGain Buy 1 ticket and get 1 free, up to Rs. 200 All days Twice a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-bogo200-alldays-twice-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 200
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200",
+   "card_variants": [
+    "Platinum Max",
+    "Platinum Prime",
+    "Titanium Delight"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": "show",
+   "days": [
+    "wed"
+   ],
+   "excludes": [],
+   "id": "rbl-bogo200-wednesday-bms",
+   "issuer": "RBL Bank",
+   "kind": "bogo",
+   "label": "RBL Bank Platinum Max / Platinum Prime / Titanium Delight",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "Platinum Max Buy 1 ticket and get 1 free, up to Rs. 200 Wednesday Once a month",
+     "Platinum Prime Buy 1 ticket and get 1 free, up to Rs. 200 Wednesday Once a month",
+     "Titanium Delight Buy 1 ticket and get 1 free, up to Rs. 200 Wednesday Once a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "day_basis": "Card Name Offer Type Show Day(s) Eligibility",
+    "days": "Platinum Max Buy 1 ticket and get 1 free, up to Rs. 200 Wednesday Once a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Platinum Max Buy 1 ticket and get 1 free, up to Rs. 200 Wednesday Once a month",
+    "monthly_limit": "Platinum Max Buy 1 ticket and get 1 free, up to Rs. 200 Wednesday Once a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "Platinum Max Buy 1 ticket and get 1 free, up to Rs. 200 Wednesday Once a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-bogo200-wednesday-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 200
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹200",
+   "card_variants": [
+    "MoneyTap",
+    "Paisabazaar Duet Plus"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": "show",
+   "days": [
+    "sat",
+    "sun"
+   ],
+   "excludes": [],
+   "id": "rbl-bogo200-weekend-bms",
+   "issuer": "RBL Bank",
+   "kind": "bogo",
+   "label": "RBL Bank MoneyTap / Paisabazaar Duet Plus",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "MoneyTap Buy 1 ticket and get 1 free, up to Rs. 200 Saturday and Sunday Once a month",
+     "Paisabazaar Duet Plus Buy 1 ticket and get 1 free, up to Rs. 200 Saturday and Sunday Once a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "day_basis": "Card Name Offer Type Show Day(s) Eligibility",
+    "days": "MoneyTap Buy 1 ticket and get 1 free, up to Rs. 200 Saturday and Sunday Once a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "MoneyTap Buy 1 ticket and get 1 free, up to Rs. 200 Saturday and Sunday Once a month",
+    "monthly_limit": "MoneyTap Buy 1 ticket and get 1 free, up to Rs. 200 Saturday and Sunday Once a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "MoneyTap Buy 1 ticket and get 1 free, up to Rs. 200 Saturday and Sunday Once a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-bogo200-weekend-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 200
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "cap: see terms",
+   "card_variants": [
+    "Insignia"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-insignia-500off-bms",
+   "issuer": "RBL Bank",
+   "kind": "flat",
+   "label": "RBL Bank Insignia",
+   "min_tickets": null,
+   "monthly_limit": 2,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "Insignia Rs 500 off All days Twice a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Insignia Rs 500 off All days Twice a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Insignia Rs 500 off All days Twice a month",
+    "monthly_limit": "Insignia Rs 500 off All days Twice a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "Insignia Rs 500 off All days Twice a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-insignia-500off-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "flat": 500
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "Platinum Advantage"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-platinum-advantage-20pct-bms",
+   "issuer": "RBL Bank",
+   "kind": "pct",
+   "label": "RBL Bank Platinum Advantage",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "15 times/year",
+   "quotes": {
+    "card_variants": [
+     "Platinum Advantage 20% discount, up to Rs. 100 All days 15 times/year"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Platinum Advantage 20% discount, up to Rs. 100 All days 15 times/year",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Platinum Advantage 20% discount, up to Rs. 100 All days 15 times/year",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "quota_note": "Platinum Advantage 20% discount, up to Rs. 100 All days 15 times/year",
+    "value": "Platinum Advantage 20% discount, up to Rs. 100 All days 15 times/year",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-platinum-advantage-20pct-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "cap": 100,
+    "pct": 20
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹100",
+   "card_variants": [
+    "Platinum Maxima"
+   ],
+   "category": "card",
+   "channel": "both",
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:44:16.778183+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [
+    "any"
+   ],
+   "excludes": [],
+   "id": "rbl-platinum-maxima-bogo100-bms",
+   "issuer": "RBL Bank",
+   "kind": "bogo",
+   "label": "RBL Bank Platinum Maxima",
+   "min_tickets": null,
+   "monthly_limit": 1,
+   "platform": "bms",
+   "quota_note": null,
+   "quotes": {
+    "card_variants": [
+     "Platinum Maxima Buy 1 ticket and get 1 free, up to Rs. 100 All days Once a month"
+    ],
+    "category": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "channel": [
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow Website",
+     "Steps to avail monthly offer on RBL Bank Credit Cards on BookMyShow app"
+    ],
+    "days": "Platinum Maxima Buy 1 ticket and get 1 free, up to Rs. 100 All days Once a month",
+    "display_name": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "instrument": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "issuer": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "kind": "Platinum Maxima Buy 1 ticket and get 1 free, up to Rs. 100 All days Once a month",
+    "monthly_limit": "Platinum Maxima Buy 1 ticket and get 1 free, up to Rs. 100 All days Once a month",
+    "platform": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards",
+    "value": "Platinum Maxima Buy 1 ticket and get 1 free, up to Rs. 100 All days Once a month",
+    "variants_scope": "Guide on how to avail discount on BookMyShow on RBL Bank Credit Cards"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf",
+   "terms_urls": [
+    "https://webassets.rbl.bank.in/document/offer-pdfs/bms-offers.pdf"
+   ],
+   "url": "https://bookmyfdfs.in/offer/rbl-platinum-maxima-bogo100-bms/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 100
+   },
+   "variants_scope": "listed"
+  },
+  {
+   "cap_text": "up to ₹250",
+   "card_variants": [
+    "AURUM"
+   ],
+   "category": "card",
+   "channel": null,
+   "check_method": "automated",
+   "checked_at": "2026-11-28T01:52:23.065688+00:00",
+   "checked_by": "FDFS Offer Intelligence",
+   "cities": [],
+   "code": null,
+   "day_basis": null,
+   "days": [],
+   "excludes": [
+    "Convenience Fee"
+   ],
+   "id": "sbicard-aurum-bms-complimentary",
+   "issuer": "SBI Card",
+   "kind": "complimentary",
+   "label": "SBI Card AURUM",
+   "min_tickets": null,
+   "monthly_limit": null,
+   "platform": "bms",
+   "quota_note": "2 free tickets applicable per booking. Maximum discount of ₹ 500 per booking (₹ 250 per ticket) Minimum 24 hours gap required between 2 bookings.",
+   "quotes": {
+    "card_variants": "Privileges on AURUM Card",
+    "category": "Privileges on AURUM Card",
+    "display_name": "Privileges on AURUM Card",
+    "excludes": "Convenience Fee charged, as applicable",
+    "instrument": "Apply Now for AURUM Card A few details to start with Title Mr. Ms. Mrs. Verify with OTP I authorize SBICPSL & its representatives to call me or SMS me with reference to my Credit Card application",
+    "issuer": "AURUM cardholders can also authorize a secretary/executive assistant to conduct limited interactions with SBI Card on their behalf",
+    "kind": "2 free tickets applicable per booking",
+    "per_txn_cap": "Maximum discount of ₹ 500 per booking (₹ 250 per ticket)",
+    "platform": "Get 4 movie tickets worth ₹ 1,000 every month on bookmyshow.com",
+    "quota_note": "2 free tickets applicable per booking. Maximum discount of ₹ 500 per booking (₹ 250 per ticket) Minimum 24 hours gap required between 2 bookings.",
+    "value": [
+     "Get 4 movie tickets worth ₹ 1,000 every month on bookmyshow.com",
+     "Maximum discount of ₹ 500 per booking (₹ 250 per ticket)"
+    ],
+    "variants_scope": "Privileges on AURUM Card"
+   },
+   "requires_purchase": null,
+   "show_days": [],
+   "source_url": "https://www.sbicard.com/en/personal/credit-cards/lifestyle/aurum-card.page",
+   "terms_urls": [
+    "https://www.sbicard.com/en/personal/credit-cards/lifestyle/aurum-card.page"
+   ],
+   "url": "https://bookmyfdfs.in/offer/sbicard-aurum-bms-complimentary/",
+   "valid_from": null,
+   "valid_to": null,
+   "value": {
+    "free_cap": 250,
+    "free_tickets": 4,
+    "period": "month",
+    "worth": 1000
+   },
+   "variants_scope": "listed"
+  }
+ ],
+ "schema_version": 1,
+ "source": "https://bookmyfdfs.in/"
+}

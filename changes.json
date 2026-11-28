@@ -1,0 +1,556 @@
+{
+ "attribution": "FDFS (bookmyfdfs.in)",
+ "changes": [
+  {
+   "at": "2026-11-28T07:22:23+05:30",
+   "date": "2026-11-28",
+   "id": "sbicard-aurum-bms-complimentary",
+   "issuer": "SBI Card",
+   "label": "New",
+   "text": "SBI Card AURUM on BookMyShow: 4 free tickets a month, up to ₹250.",
+   "type": "added",
+   "who": "SBI Card AURUM"
+  },
+  {
+   "at": "2026-11-28T07:18:02+05:30",
+   "date": "2026-11-28",
+   "id": "idfc-mayura-district-bogo",
+   "issuer": "IDFC FIRST",
+   "label": "New",
+   "text": "IDFC FIRST Mayura on District app: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "IDFC FIRST Mayura"
+  },
+  {
+   "at": "2026-11-28T07:17:38+05:30",
+   "date": "2026-11-28",
+   "id": "idfc-ashva-district-bogo",
+   "issuer": "IDFC FIRST",
+   "label": "New",
+   "text": "IDFC FIRST Ashva on District app: 2nd ticket free, up to ₹400.",
+   "type": "added",
+   "who": "IDFC FIRST Ashva"
+  },
+  {
+   "at": "2026-11-28T07:18:14+05:30",
+   "date": "2026-11-28",
+   "id": "icici-sapphiro-debit-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Sapphiro Debit on BookMyShow: 25% off, up to ₹250.",
+   "type": "added",
+   "who": "ICICI Sapphiro Debit"
+  },
+  {
+   "at": "2026-11-28T07:18:55+05:30",
+   "date": "2026-11-28",
+   "id": "icici-rubyx-debit-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Rubyx Debit on BookMyShow: 25% off, up to ₹200.",
+   "type": "added",
+   "who": "ICICI Rubyx Debit"
+  },
+  {
+   "at": "2026-11-28T07:20:45+05:30",
+   "date": "2026-11-28",
+   "id": "icici-makemytrip-card-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI MakeMyTrip on BookMyShow: 25% off, up to ₹150.",
+   "type": "added",
+   "who": "ICICI MakeMyTrip"
+  },
+  {
+   "at": "2026-11-28T07:21:06+05:30",
+   "date": "2026-11-28",
+   "id": "icici-hpcl-super-saver-card-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI HPCL Super Saver on BookMyShow: 25% off, up to ₹100.",
+   "type": "added",
+   "who": "ICICI HPCL Super Saver"
+  },
+  {
+   "at": "2026-11-28T07:21:52+05:30",
+   "date": "2026-11-28",
+   "id": "icici-expressions-card-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Expressions on BookMyShow: 25% off, up to ₹100.",
+   "type": "added",
+   "who": "ICICI Expressions"
+  },
+  {
+   "at": "2026-11-28T07:19:36+05:30",
+   "date": "2026-11-28",
+   "id": "icici-emirates-sapphiro-card-bms-bogo",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Emirates Sapphiro on BookMyShow: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "ICICI Emirates Sapphiro"
+  },
+  {
+   "at": "2026-11-28T07:19:16+05:30",
+   "date": "2026-11-28",
+   "id": "icici-emirates-emeralde-card-bms-bogo",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Emirates Emeralde on BookMyShow: 2nd ticket free, up to ₹750.",
+   "type": "added",
+   "who": "ICICI Emirates Emeralde"
+  },
+  {
+   "at": "2026-11-28T07:21:30+05:30",
+   "date": "2026-11-28",
+   "id": "icici-csk-card-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Chennai Super Kings on BookMyShow: 25% off, up to ₹100.",
+   "type": "added",
+   "who": "ICICI Chennai Super Kings"
+  },
+  {
+   "at": "2026-11-28T07:18:34+05:30",
+   "date": "2026-11-28",
+   "id": "icici-coral-debit-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Coral Debit on BookMyShow: 25% off, up to ₹125.",
+   "type": "added",
+   "who": "ICICI Coral Debit"
+  },
+  {
+   "at": "2026-11-28T07:19:59+05:30",
+   "date": "2026-11-28",
+   "id": "icici-adani-one-signature-card-bms-bogo",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Adani One Signature on BookMyShow: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "ICICI Adani One Signature"
+  },
+  {
+   "at": "2026-11-28T07:20:22+05:30",
+   "date": "2026-11-28",
+   "id": "icici-adani-one-platinum-card-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Adani One ICICI Bank Platinum on BookMyShow: 25% off, up to ₹100.",
+   "type": "added",
+   "who": "ICICI Adani One ICICI Bank Platinum"
+  },
+  {
+   "at": "2026-11-28T07:09:25+05:30",
+   "date": "2026-11-28",
+   "id": "hsbc-allcards-bms-events-10pct",
+   "issuer": "HSBC",
+   "label": "Changed",
+   "text": "HSBC credit cards on BookMyShow app · live events, not movies: show days changed. Now: 10% off, up to ₹1,000 a month.",
+   "type": "changed",
+   "who": "HSBC credit cards"
+  },
+  {
+   "at": "2026-11-28T07:24:00+05:30",
+   "date": "2026-11-28",
+   "id": "axis-priority-debit-bms-25pct",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis Priority Debit on BookMyShow: 25% off, up to ₹350 a month.",
+   "type": "added",
+   "who": "Axis Priority Debit"
+  },
+  {
+   "at": "2026-11-28T07:22:34+05:30",
+   "date": "2026-11-28",
+   "id": "axis-olympus-bms-bogo",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis Olympus on BookMyShow: 2nd ticket free, up to ₹650.",
+   "type": "added",
+   "who": "Axis Olympus"
+  },
+  {
+   "at": "2026-11-28T07:23:38+05:30",
+   "date": "2026-11-28",
+   "id": "axis-indianoil-bms-10pct",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis IndianOil on BookMyShow: 10% off, up to ₹100 a month.",
+   "type": "added",
+   "who": "Axis IndianOil"
+  },
+  {
+   "at": "2026-11-28T07:22:56+05:30",
+   "date": "2026-11-28",
+   "id": "axis-burgundy-private-debit-bms-bogo",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis Burgundy Private Debit on BookMyShow: 2nd ticket free, up to ₹650.",
+   "type": "added",
+   "who": "Axis Burgundy Private Debit"
+  },
+  {
+   "at": "2026-11-28T07:23:17+05:30",
+   "date": "2026-11-28",
+   "id": "axis-burgundy-private-cc-bms-bogo",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis Burgundy Private on BookMyShow: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "Axis Burgundy Private"
+  },
+  {
+   "at": "2026-11-28T07:24:13+05:30",
+   "date": "2026-11-28",
+   "id": "au-royale-debit-bms-bogo",
+   "issuer": "AU",
+   "label": "New",
+   "text": "AU Royale Debit on BookMyShow: 2nd ticket free, up to ₹250.",
+   "type": "added",
+   "who": "AU Royale Debit"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-platinum-maxima-bogo100-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Platinum Maxima on BookMyShow: 2nd ticket free, up to ₹100.",
+   "type": "added",
+   "who": "RBL Bank Platinum Maxima"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-platinum-advantage-20pct-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Platinum Advantage on BookMyShow: 20% off, up to ₹100.",
+   "type": "added",
+   "who": "RBL Bank Platinum Advantage"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-insignia-500off-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Insignia on BookMyShow: ₹500 off, cap: see terms.",
+   "type": "added",
+   "who": "RBL Bank Insignia"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-bogo200-weekend-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank MoneyTap / Paisabazaar Duet Plus on BookMyShow: 2nd ticket free, up to ₹200.",
+   "type": "added",
+   "who": "RBL Bank MoneyTap / Paisabazaar Duet Plus"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-bogo200-wednesday-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Platinum Max / Platinum Prime / Titanium Delight on BookMyShow: 2nd ticket free, up to ₹200.",
+   "type": "added",
+   "who": "RBL Bank Platinum Max / Platinum Prime / Titanium Delight"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-bogo200-alldays-twice-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Platinum ShopGain / World Plus / World Prime / Icon on BookMyShow: 2nd ticket free, up to ₹200.",
+   "type": "added",
+   "who": "RBL Bank Platinum ShopGain / World Plus / World Prime / Icon"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-bogo200-alldays-monthly-bms-2",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Platinum LifeEasy / Platinum ShopSmart / World Max / World Select / Platinum Maxima Plus on BookMyShow: 2nd ticket free, up to ₹200.",
+   "type": "added",
+   "who": "RBL Bank Platinum LifeEasy / Platinum ShopSmart / World Max / World Select / Platinum Maxima Plus"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-bogo200-alldays-monthly-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Binge / CA / Freedom / Platinum Edge on BookMyShow: 2nd ticket free, up to ₹200.",
+   "type": "added",
+   "who": "RBL Bank Binge / CA / Freedom / Platinum Edge"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-10pct300-monthly-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Cookies / Monthly Treats on BookMyShow: 10% off, up to ₹300.",
+   "type": "added",
+   "who": "RBL Bank Cookies / Monthly Treats"
+  },
+  {
+   "at": "2026-11-27T00:28:16+05:30",
+   "date": "2026-11-27",
+   "id": "rbl-10pct-15peryear-bms",
+   "issuer": "RBL Bank",
+   "label": "New",
+   "text": "RBL Bank Platinum Choice / Blockbuster / Fun + / MoneyTap Black / Movies & More / Shoprite on BookMyShow: 10% off, up to ₹100.",
+   "type": "added",
+   "who": "RBL Bank Platinum Choice / Blockbuster / Fun + / MoneyTap Black / Movies & More / Shoprite"
+  },
+  {
+   "at": "2026-11-27T00:27:55+05:30",
+   "date": "2026-11-27",
+   "id": "indusind-indulge-bms-bogo",
+   "issuer": "IndusInd",
+   "label": "New",
+   "text": "IndusInd Indulge on BookMyShow: 2nd ticket free, up to ₹700.",
+   "type": "added",
+   "who": "IndusInd Indulge"
+  },
+  {
+   "at": "2026-11-27T00:27:33+05:30",
+   "date": "2026-11-27",
+   "id": "indusind-crest-bms-bogo",
+   "issuer": "IndusInd",
+   "label": "New",
+   "text": "IndusInd Crest on BookMyShow: 2nd ticket free, up to ₹700.",
+   "type": "added",
+   "who": "IndusInd Crest"
+  },
+  {
+   "at": "2026-11-27T00:26:05+05:30",
+   "date": "2026-11-27",
+   "id": "idfc-wealth-diamond-district-bogo",
+   "issuer": "IDFC FIRST",
+   "label": "New",
+   "text": "IDFC FIRST Wealth / Diamond Reserve on District app: 2nd ticket free, up to ₹250.",
+   "type": "added",
+   "who": "IDFC FIRST Wealth / Diamond Reserve"
+  },
+  {
+   "at": "2026-11-27T00:26:05+05:30",
+   "date": "2026-11-27",
+   "id": "idfc-select-district-bogo",
+   "issuer": "IDFC FIRST",
+   "label": "New",
+   "text": "IDFC FIRST Select on District app: 2nd ticket free, up to ₹125.",
+   "type": "added",
+   "who": "IDFC FIRST Select"
+  },
+  {
+   "at": "2026-11-27T00:26:05+05:30",
+   "date": "2026-11-27",
+   "id": "idfc-classic-district-bogo",
+   "issuer": "IDFC FIRST",
+   "label": "New",
+   "text": "IDFC FIRST Classic on District app: 2nd ticket free, up to ₹100.",
+   "type": "added",
+   "who": "IDFC FIRST Classic"
+  },
+  {
+   "at": "2026-11-27T00:30:05+05:30",
+   "date": "2026-11-27",
+   "id": "icici-sapphiro-card-bms-bogo",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Sapphiro on BookMyShow: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "ICICI Sapphiro"
+  },
+  {
+   "at": "2026-11-27T00:29:45+05:30",
+   "date": "2026-11-27",
+   "id": "icici-rubyx-card-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Rubyx on BookMyShow: 25% off, up to ₹150.",
+   "type": "added",
+   "who": "ICICI Rubyx"
+  },
+  {
+   "at": "2026-11-27T00:30:27+05:30",
+   "date": "2026-11-27",
+   "id": "icici-emeralde-card-bms-bogo",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Emeralde on BookMyShow: 2nd ticket free, up to ₹750.",
+   "type": "added",
+   "who": "ICICI Emeralde"
+  },
+  {
+   "at": "2026-11-27T00:29:24+05:30",
+   "date": "2026-11-27",
+   "id": "icici-coral-card-bms-25pct",
+   "issuer": "ICICI",
+   "label": "New",
+   "text": "ICICI Coral on BookMyShow: 25% off, up to ₹100.",
+   "type": "added",
+   "who": "ICICI Coral"
+  },
+  {
+   "at": "2026-11-27T00:29:11+05:30",
+   "date": "2026-11-27",
+   "id": "hdfc-diners-privilege-bms-bogo",
+   "issuer": "HDFC Bank",
+   "label": "New",
+   "text": "HDFC Bank Diners Club Privilege on BookMyShow: 2nd ticket free, up to ₹250.",
+   "type": "added",
+   "who": "HDFC Bank Diners Club Privilege"
+  },
+  {
+   "at": "2026-11-27T00:26:25+05:30",
+   "date": "2026-11-27",
+   "id": "dbs-vantage-bms-50pct",
+   "issuer": "DBS",
+   "label": "New",
+   "text": "DBS Vantage on BookMyShow: 50% off, up to ₹500.",
+   "type": "added",
+   "who": "DBS Vantage"
+  },
+  {
+   "at": "2026-11-27T00:27:21+05:30",
+   "date": "2026-11-27",
+   "id": "bandhan-mastercard-platinum-plus-debit-bms-bogo",
+   "issuer": "Bandhan",
+   "label": "New",
+   "text": "Bandhan Mastercard Platinum Plus Debit on BookMyShow: 2nd ticket free, up to ₹350.",
+   "type": "added",
+   "who": "Bandhan Mastercard Platinum Plus Debit"
+  },
+  {
+   "at": "2026-11-27T00:26:53+05:30",
+   "date": "2026-11-27",
+   "id": "bandhan-elite-debit-bms-bogo",
+   "issuer": "Bandhan",
+   "label": "New",
+   "text": "Bandhan Elite Debit on BookMyShow: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "Bandhan Elite Debit"
+  },
+  {
+   "at": "2026-11-27T00:30:39+05:30",
+   "date": "2026-11-27",
+   "id": "axis-reserve-bms-bogo",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis Reserve on BookMyShow: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "Axis Reserve"
+  },
+  {
+   "at": "2026-11-27T00:31:00+05:30",
+   "date": "2026-11-27",
+   "id": "axis-privilege-district-bogo",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis Privilege on District app: 2nd ticket free, up to ₹250.",
+   "type": "added",
+   "who": "Axis Privilege"
+  },
+  {
+   "at": "2026-11-27T00:28:50+05:30",
+   "date": "2026-11-27",
+   "id": "axis-neo-bms-10pct",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis NEO on BookMyShow: 10% off, up to ₹100 a month.",
+   "type": "added",
+   "who": "Axis NEO"
+  },
+  {
+   "at": "2026-11-27T00:31:20+05:30",
+   "date": "2026-11-27",
+   "id": "axis-burgundy-debit-bms-bogo",
+   "issuer": "Axis",
+   "label": "New",
+   "text": "Axis Burgundy Debit on BookMyShow: 2nd ticket free, up to ₹500.",
+   "type": "added",
+   "who": "Axis Burgundy Debit"
+  },
+  {
+   "at": "2026-11-27T00:28:39+05:30",
+   "date": "2026-11-27",
+   "id": "au-laksya-district-bogo",
+   "issuer": "AU",
+   "label": "New",
+   "text": "AU Laksya on District: 2nd ticket free, up to ₹250.",
+   "type": "added",
+   "who": "AU Laksya"
+  },
+  {
+   "at": "2026-11-25T16:34:52+05:30",
+   "date": "2026-11-25",
+   "id": "indusind-eazydiner-platinum-bms-bogo",
+   "issuer": "IndusInd",
+   "label": "First checked",
+   "text": "IndusInd Eazydiner Platinum on BookMyShow: 2nd ticket free, up to ₹200.",
+   "type": "first_check",
+   "who": "IndusInd Eazydiner Platinum"
+  },
+  {
+   "at": "2026-11-25T16:34:52+05:30",
+   "date": "2026-11-25",
+   "id": "hsbc-select-bms-saturday-bogo",
+   "issuer": "HSBC",
+   "label": "First checked",
+   "text": "Select HSBC credit cards on BookMyShow app: 2nd ticket free, up to ₹250.",
+   "type": "first_check",
+   "who": "Select HSBC credit cards"
+  },
+  {
+   "at": "2026-11-25T16:34:52+05:30",
+   "date": "2026-11-25",
+   "id": "hsbc-premier-bms-bogo",
+   "issuer": "HSBC",
+   "label": "First checked",
+   "text": "HSBC Premier Mastercard on BookMyShow app: 2nd ticket free, up to ₹750.",
+   "type": "first_check",
+   "who": "HSBC Premier Mastercard"
+  },
+  {
+   "at": "2026-11-25T16:34:52+05:30",
+   "date": "2026-11-25",
+   "id": "hsbc-allcards-bms-events-10pct",
+   "issuer": "HSBC",
+   "label": "First checked",
+   "text": "HSBC credit cards on BookMyShow app · live events, not movies: 10% off, up to ₹1,000 a month.",
+   "type": "first_check",
+   "who": "HSBC credit cards"
+  },
+  {
+   "at": "2026-11-25T16:34:52+05:30",
+   "date": "2026-11-25",
+   "id": "axis-select-district-bogo",
+   "issuer": "Axis",
+   "label": "First checked",
+   "text": "Axis Select on District app: 2nd ticket free, up to ₹250.",
+   "type": "first_check",
+   "who": "Axis Select"
+  },
+  {
+   "at": "2026-11-25T16:34:52+05:30",
+   "date": "2026-11-25",
+   "id": "axis-myzone-district-bogo",
+   "issuer": "Axis",
+   "label": "First checked",
+   "text": "Axis MY ZONE on District: 2nd ticket free, up to ₹200 a month.",
+   "type": "first_check",
+   "who": "Axis MY ZONE"
+  }
+ ],
+ "license": "CC-BY-4.0"
+}
