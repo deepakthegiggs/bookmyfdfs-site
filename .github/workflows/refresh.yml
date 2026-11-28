@@ -17,7 +17,12 @@ on:
     - cron: "35 18 * * *"   # 00:05 IST: live read + discovery (cards focus) + publish. Moved from 08:00 IST on 26 Nov:
                             # one run reads each page twice (read + confirm) = the whole 2-reads-per-IST-day budget.
     - cron: "30 14 * * *"   # 20:00 IST: discovery + publish (no official page read)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      live_read:
+        description: "Also read the official offer pages (uses the day's 2-reads-per-page budget; decision 090). Off: discovery + build + publish only, like the 20:00 run."
+        type: boolean
+        default: false
 
 concurrency:
   group: site-refresh
@@ -58,14 +63,14 @@ jobs:
           git fetch origin main:main
 
       - name: Live read of the official offer pages (never District, never a ticketing app)
-        if: github.event.schedule != '30 14 * * *'
+        if: github.event.schedule != '30 14 * * *' && (github.event_name != 'workflow_dispatch' || inputs.live_read)
         env:
           FDFS_OFFERS: "on"
           FDFS_HOSTS_OFF: "district"
         run: python3 scripts/refresh_offers.py
 
       - name: Can this runner read each official host's robots.txt? (diagnostic, one request per host)
-        if: always() && github.event.schedule != '30 14 * * *'
+        if: always() && github.event.schedule != '30 14 * * *' && (github.event_name != 'workflow_dispatch' || inputs.live_read)
         continue-on-error: true
         timeout-minutes: 3
         run: python3 scripts/robots_probe.py
