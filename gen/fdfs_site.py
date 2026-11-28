@@ -315,6 +315,14 @@ def cap(o: Offer) -> str:
     return t or "cap: see terms"
 
 
+def cap_tail(o: Offer) -> str:
+    """" up to ₹250" after a benefit in running text; nothing after a flat ₹ amount whose terms state no cap, since
+    "₹500 off cap: see terms" reads as a broken sentence and the amount is already the most it gives (decision 174)."""
+    if o.kind == "flat" and o.value.get("flat") and cap(o) == "cap: see terms":
+        return ""
+    return f" {cap(o)}"
+
+
 def cap_num(o: Offer) -> int:
     v = o.value
     return int(v.get("free_cap") or v.get("cap") or v.get("flat") or 0)
@@ -1753,7 +1761,7 @@ def page_bank(site: Site, slug: str, offers: list[Offer], changes: list, today: 
             extra = f" ({g})" if g else (f" ({times(o.monthly_limit).lower()})" if o.monthly_limit else "")
             v = "get" if who(o).endswith("cards") else "gets"
             verb = f"{v} the 2nd ticket free" if what(o) == "2nd ticket free" else f"{v} {what(o)}"
-            parts.append(f"{mid(who(o)) if parts else who(o)} {verb} {cap(o)}{extra}")
+            parts.append(f"{mid(who(o)) if parts else who(o)} {verb}{cap_tail(o)}{extra}")
         ends = sorted({o.valid_to for o in movie if o.valid_to})
         if len(ends) == 1 and all(o.valid_to for o in movie):
             end = f" {'Both end' if len(movie) == 2 else 'All end' if len(movie) > 2 else 'It ends'} {fmt_day(ends[0])}."
@@ -1769,8 +1777,11 @@ def page_bank(site: Site, slug: str, offers: list[Offer], changes: list, today: 
         # movie offer on the page is on that one card type; the cap drops out of the title before the card type does
         kinds = {o.instrument for o in movie}
         ctype = f" {next(iter(kinds))} card" if len(kinds) == 1 and kinds <= {"credit", "debit"} else ""
-        plain = ([f"{name}{ctype} {apps_t}: {what(best)} {cap(best)}", f"{name}{ctype} {apps_t}: {what(best)}"] if ctype else []) \
-            + [f"{name} {apps_t}: {what(best)} {cap(best)}", f"{name} {apps_t}"]
+        # decision 174: an issuer whose name already ends in "Card" ("SBI Card") reads "SBI credit card", not
+        # "SBI Card credit card"; and the benefit stays in the title without its cap before the title drops to the bare name
+        lead = name[:-5] if ctype and name.endswith(" Card") else name
+        plain = ([f"{lead}{ctype} {apps_t}: {what(best)} {cap(best)}", f"{lead}{ctype} {apps_t}: {what(best)}"] if ctype else []) \
+            + [f"{name} {apps_t}: {what(best)} {cap(best)}", f"{name} {apps_t}: {what(best)}", f"{name} {apps_t}"]
         title = fit_title(dated + plain)
         h1 = f"Does {E(short)} have a {E(' or '.join(apps_l))} offer?"
     else:
@@ -1781,13 +1792,15 @@ def page_bank(site: Site, slug: str, offers: list[Offer], changes: list, today: 
     def day_rule(o):
         g = gate_short(o, today)
         return f" ({g})" if g and g.startswith("when you book") else ""
-    bits = [f"{who(o).replace(short + ' ', '', 1) if who(o).startswith(short + ' ') else who(o)}: {what(o)} {cap(o)}"
+    bits = [f"{who(o).replace(short + ' ', '', 1) if who(o).startswith(short + ' ') else who(o)}: {what(o)}{cap_tail(o)}"
             + day_rule(o).replace("when you book", "book") + (f" (code {o.code})" if o.code else "") for o in movie[:3]]
     gates = {spend_gate(o.quota_note) for o in movie}
     common = f" {'Both need' if len(movie) == 2 else 'All need'} {next(iter(gates))[6:]}." if len(gates) == 1 and None not in gates and len(movie) > 1 else ""
     # decision 161: say "buy 1 get 1" (the words people search) only when every movie offer here is a 2nd-ticket-free offer
     b1g1 = "buy 1 get 1 " if movie and all(what(o) == "2nd ticket free" for o in movie) else ""
-    desc = (f"Yes: {len(movie)} {name} {b1g1}offer{'s' if len(movie) > 1 else ''} on {join_and(apps_l)}, checked {d}. "
+    # decision 174: "movie ticket offer", the words in the questions people ask ("SBI card movie ticket offer"); only movie
+    # offers are counted here, so the words are true
+    desc = (f"Yes: {len(movie)} {name} {b1g1}movie ticket offer{'s' if len(movie) > 1 else ''} on {join_and(apps_l)}, checked {d}. "
             + ". ".join(bits) + "." + common) if movie else f"{name}: no movie ticket offer passes our checks on {d}."
     rows = [[f'<a href="#{E(o.id)}">{E(who(o))}</a>', E(where(o)), E(what(o)), E(cap(o)), E(key_condition(o, today)),
              E(fmt_day(o.valid_to)) if o.valid_to else "Not stated",
@@ -3397,7 +3410,8 @@ def build(data: Path, hist: Path, out: Path, state_path: Path, cfg_path: Path, r
     all_dated = opts and all(len(f"{o[0][0]} · FDFS") <= 65 for o in opts)
     for b in bank_pages:
         if b.title_options:
-            b.title = fit_title(b.title_options[0] if all_dated else b.title_options[1])
+            # measured as the escaped <title> ("&" costs 5), the way the title guard measures it (decision 174)
+            b.title = fit_title_n(b.title_options[0] if all_dated else b.title_options[1], 65)
     pages += bank_pages
     pages += offer_pages(site, offers, changes, hist, today, warn, state)
     best = page_best(site, offers, today)

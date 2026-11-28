@@ -22,10 +22,10 @@ class BuyOneGetOne(Base):
         out, _, _ = self.build()
         for slug in ("axis", "hsbc", "indusind"):
             d = desc(out, slug)
-            self.assertRegex(d, r"^Yes: \d+ .+ buy 1 get 1 offers? on ", d)
+            self.assertRegex(d, r"^Yes: \d+ .+ buy 1 get 1 (movie ticket )?offers? on ", d)  # "movie ticket" since decision 174
             self.assertIn("2nd ticket free up to ₹", d)   # the precise benefit and cap stay
         # an events-only extra offer (HSBC 10% live events) doesn't block the wording: it isn't a movie offer
-        self.assertIn("HSBC buy 1 get 1 offers on BookMyShow", desc(out, "hsbc"))
+        self.assertIn("HSBC buy 1 get 1 movie ticket offers on BookMyShow", desc(out, "hsbc"))
 
     def test_mixed_benefits_never_say_buy_1_get_1(self):
         fx = copy.deepcopy(FIX)
