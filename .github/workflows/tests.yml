@@ -1,0 +1,39 @@
+# Tests only (no live read, no build for publishing, no deploy): every push to site-src, plus a manual trigger.
+# The 00:05 refresh runs the same suite before it publishes; this catches a red site-src hours earlier, on the same
+# Ubuntu + Chrome the refresh uses (the browser layout tests depend on its fonts and Chrome).
+name: Tests
+
+on:
+  push:
+    branches: [site-src]
+  workflow_dispatch: {}
+
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  unittest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Private half from bookmyfdfs-ops (engine, refresh, discovery; deploy key; never committed here)
+        uses: actions/checkout@v4
+        with:
+          repository: deepakthegiggs/bookmyfdfs-ops
+          ref: main   # named so checkout never asks the API for the default branch (its token can't see a private repo)
+          ssh-key: ${{ secrets.OPS_DEPLOY_KEY }}
+          path: ops
+          persist-credentials: false
+
+      - name: Lay the private half over the site checkout (split plan, 27 Nov)
+        run: rsync -a --exclude .git ops/ ./ && rm -rf ops
+      - name: Unit, crawl and browser tests (offline; sockets to real hosts are never opened)
+        run: python3 -m unittest discover -s tests

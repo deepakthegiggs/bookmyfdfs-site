@@ -1,0 +1,75 @@
+# Decision 159: the Search Console query-gap loop; daily since decision 160 (06:00 IST, 00:30 UTC), plus a manual trigger.
+# Decision 160: the growth scoreboard runs right after it (goals vs today, ranked moves) for the daily growth agent.
+#   Search Analytics (web, India; last 28 days vs the 28 before) + the site's own facts -> ranked actions
+#   -> data/gsc-gaps.json (coverage_hints: the hook discovery reads) + docs/gsc/YYYY-MM-DD.md + the job summary.
+# Nothing is built for publishing, deployed or pinged: this only commits its two outputs to the source branch.
+# No secret GSC_SA_JSON: the script prints "not configured" and exits 0, so this never fails for that reason.
+# The repo is public: outputs carry aggregated query-level data only, impressions and clicks as buckets.
+# NOTE: scheduled workflows only run from the default branch (site-src).
+name: Search Console gaps + growth scoreboard
+
+on:
+  schedule:
+    - cron: "30 0 * * *"    # daily 06:00 IST
+  workflow_dispatch: {}
+
+concurrency:
+  group: gsc-gaps
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  gaps:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Private half from bookmyfdfs-ops (loops and playbook; deploy key with write access)
+        uses: actions/checkout@v4
+        with:
+          repository: deepakthegiggs/bookmyfdfs-ops
+          ref: main   # named so checkout never asks the API for the default branch (its token can't see a private repo)
+          ssh-key: ${{ secrets.OPS_DEPLOY_KEY }}
+          path: ops
+          persist-credentials: true
+
+      - name: Lay the private half over the site checkout (split plan, 27 Nov)
+        run: rsync -a --exclude .git ops/ ./
+
+      - name: google-auth for the service-account token (the generator itself stays stdlib-only)
+        run: python3 -m pip install --quiet "google-auth==2.35.0" "requests==2.32.3"
+
+      - name: Read Search Console and write the gap report (key read from env, never printed or saved)
+        env:
+          GSC_SA_JSON: ${{ secrets.GSC_SA_JSON }}
+        run: python3 scripts/gsc_gaps.py
+
+      - name: Growth scoreboard (decision 160; reads the repo only, counts and buckets only)
+        run: python3 scripts/growth_scoreboard.py > /dev/null   # the scoreboard stays private: no run summary, since this repo and its logs are public
+
+      - name: Keep the report in bookmyfdfs-ops (private; nothing is committed to this public repo)
+        run: |
+          mkdir -p ops/docs/gsc ops/docs/growth ops/data
+          cp data/gsc-gaps.json data/growth.json data/growth-history.json ops/data/ 2>/dev/null || true
+          cp -R docs/gsc/. ops/docs/gsc/ 2>/dev/null || true
+          cp -R docs/growth/. ops/docs/growth/ 2>/dev/null || true
+          cd ops
+          git config user.name "FDFS search console loop"
+          git config user.email "site-refresh@users.noreply.github.com"
+          git add data/gsc-gaps.json docs/gsc data/growth.json data/growth-history.json docs/growth 2>/dev/null || true
+          if git diff --cached --quiet; then echo "nothing new to commit"; exit 0; fi
+          git commit -q -m "Search Console gaps + growth scoreboard $(TZ=Asia/Kolkata date +%F) (site run ${GITHUB_RUN_ID})"
+          for i in 1 2 3; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1

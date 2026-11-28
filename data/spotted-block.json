@@ -1,0 +1,7 @@
+[
+ {"issuer": "ICICI Bank", "card": "Sapphiro", "reason": "ICICI's terms page says the BookMyShow offer was valid till 31 March 2021; the card page still advertises it"},
+ {"issuer": "ICICI Bank", "card": "Rubyx", "reason": "ICICI's terms page says the BookMyShow offer was valid till 31 March 2021; the card page still advertises it"},
+ {"issuer": "ICICI Bank", "card": "Diamant", "reason": "ICICI's terms page says the BookMyShow offer was valid till 31 March 2021; the card page still advertises it"},
+ {"issuer": "ICICI Bank", "card": "Emeralde", "reason": "ICICI's terms page says the BookMyShow offer was valid till 31 March 2021; the card page still advertises it"},
+ {"id": "icici-bookmyshow-emeralde-bogo", "issuer": "ICICI Bank", "card": "Emeralde", "reason": "ICICI's terms page says the BookMyShow offer was valid till 31 March 2021; the card page still advertises it"}
+]

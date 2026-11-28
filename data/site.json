@@ -1,0 +1,30 @@
+{
+  "base_url": "https://bookmyfdfs.in",
+  "name": "FDFS",
+  "alternate_names": [
+    "FDFS offers",
+    "bookmyfdfs",
+    "FDFS Film Deals Friends Seats"
+  ],
+  "tagline": "Film · Deals · Friends · Seats",
+  "analytics": {
+    "cloudflare_token": "49829ed5140d4e0588707ab5cc86f044"
+  },
+  "_notes": "contact_email is optional (owner, 25 Nov: none for now). analytics: cookieless only. manual_hosts: policy pages read by a person because the host's terms ban automated reads (District). not_yet_listed: banks named in 'Not on this list yet' (only banks whose terms haven't passed our checks). Never add chat-app or product links before launch.",
+  "features": {
+    "new_this_week": false
+  },
+  "issuer_names": {
+    "Axis": "Axis Bank"
+  },
+  "manual_hosts": [
+    "district.in"
+  ],
+  "not_yet_listed": [
+    "HDFC",
+    "ICICI",
+    "SBI",
+    "Kotak",
+    "RBL"
+  ]
+}

@@ -1,0 +1,95 @@
+# Decision 129: the site refreshes itself, independent of anything else.
+# 00:05 IST (was 08:00 until 26 Nov; lead's decision, 25 Nov: each run reads every page twice, read + confirm, and 090 allows at most
+# 2 reads per page per IST day) plus a manual trigger:
+#   live read of the official offer pages (vendored engine, engine/SOURCE) -> guarded export -> discovery
+#   (decision 136, Spotted leads only) -> build -> tests -> publish dist/ to the Pages branch (main) -> IndexNow.
+# 20:00 IST (decision 136): discovery + build + publish only; no official page is read a second time.
+# Discovery can fail without stopping anything: the verified refresh and the build still run.
+# Any failure stops the run before publishing; the last good site stays up and the run shows as failed
+# (GitHub emails the owner about failed scheduled runs).
+# NOTE: scheduled workflows only run from the repository's DEFAULT branch (site-src since 25 Nov; this file was
+# re-saved on 26 Nov so GitHub registers the schedule there).
+name: Refresh offers
+
+on:
+  schedule:
+    - cron: "35 18 * * *"   # 00:05 IST: live read + discovery (cards focus) + publish. Moved from 08:00 IST on 26 Nov:
+                            # one run reads each page twice (read + confirm) = the whole 2-reads-per-IST-day budget.
+    - cron: "30 14 * * *"   # 20:00 IST: discovery + publish (no official page read)
+  workflow_dispatch: {}
+
+concurrency:
+  group: site-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Private half from bookmyfdfs-ops (engine, refresh, discovery; deploy key; never committed here)
+        uses: actions/checkout@v4
+        with:
+          repository: deepakthegiggs/bookmyfdfs-ops
+          ref: main   # named so checkout never asks the API for the default branch (its token can't see a private repo)
+          ssh-key: ${{ secrets.OPS_DEPLOY_KEY }}
+          path: ops
+          persist-credentials: false
+
+      - name: Lay the private half over the site checkout (split plan, 27 Nov)
+        run: rsync -a --exclude .git ops/ ./ && rm -rf ops
+
+      - name: Git identity and the Pages branch
+        run: |
+          git config user.name "FDFS site refresh"
+          git config user.email "site-refresh@users.noreply.github.com"
+          git fetch origin main:main
+
+      - name: Live read of the official offer pages (never District, never a ticketing app)
+        if: github.event.schedule != '30 14 * * *'
+        env:
+          FDFS_OFFERS: "on"
+          FDFS_HOSTS_OFF: "district"
+        run: python3 scripts/refresh_offers.py
+
+      - name: Can this runner read each official host's robots.txt? (diagnostic, one request per host)
+        if: always() && github.event.schedule != '30 14 * * *'
+        continue-on-error: true
+        timeout-minutes: 3
+        run: python3 scripts/robots_probe.py
+
+      - name: Discovery of Spotted leads (one model call, code gates; never blocks the refresh)
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python3 scripts/discover.py
+
+      - name: Build, test, publish to main, IndexNow (stops before publishing if any test fails)
+        run: sh scripts/deploy.sh --branch main --push
+
+      - name: Keep this run's data on the source branch
+        run: git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      # 26 Nov: a build crash threw away a good live read (26 verified offers) and the discovery spend record.
+      # On failure, keep the read data and the spend ledger on the source branch (nothing is published), so the
+      # day's two reads per page aren't wasted and the ₹2/day discovery cap keeps counting.
+      - name: Keep the data of a run whose build failed (nothing published)
+        if: failure()
+        run: |
+          for f in data/offers.json data/offers.source.txt data/spotted.json data/discover-spend.json data/carry-state.json; do
+            [ -f "$f" ] && git add "$f"
+          done
+          git diff --cached --quiet || git commit -q -m "Data kept from run ${GITHUB_RUN_ID}: the build failed, nothing was published"
+          git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"

@@ -1,0 +1,61 @@
+/* /calendar/ only (decision 153): inlined on that page, so the shared stylesheet doesn't grow.
+   Colours are theme tokens only; lime stays a fill. tests/test_plan_p3.py runs the site.css colour and motion checks on it. */
+/* /calendar/: a vertical agenda on phones, 7 columns from 1024 px */
+.cl-key-l{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;margin-bottom:var(--s-4);font-size:var(--t-xs);color:var(--text-2)}
+.cl-sw{display:inline-block;width:14px;height:14px;border-radius:4px;border:2px solid var(--accent-line);vertical-align:-2px}
+.cl-sw-s{border-style:dashed;border-color:var(--text-3)}
+.cal{list-style:none;padding:0;display:grid;gap:8px}
+.cl-d{display:grid;grid-template-columns:68px minmax(0,1fr);gap:6px 12px;align-content:start;padding:12px 14px;border-radius:var(--r-2);background:var(--surface);border:1px solid var(--line);min-width:0}
+.cl-d>*:not(.cl-dh){grid-column:2}
+.cl-dh{grid-row:1/span 9;display:flex;flex-direction:column;align-items:flex-start;gap:4px;font:700 var(--t-sm)/1.1 var(--font)}
+.cl-dh time{display:grid;justify-items:start}
+.cl-wd,.cl-mo{font-size:var(--t-xs);font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-3)}
+.cl-dn{font:750 1.75rem/1 var(--font-display)}
+.cl-today{font-size:10.5px;font-weight:700;letter-spacing:0;text-transform:uppercase;padding:3px 6px;white-space:nowrap;border-radius:var(--r-pill);background:var(--text);color:var(--bg)}
+.cl-today[hidden]{display:none}
+.cl-d.is-today{border:2px solid var(--text)}
+.cl-d.is-past{background:var(--surface-2)}
+.cal .cl-x{display:none}
+.cl-h{font-size:var(--t-xs);font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-3)}
+.cl-ul{list-style:none;padding:0;display:grid;gap:6px}
+.cl-o{display:grid;gap:2px;padding:8px 10px;border-radius:var(--r-1);background:var(--surface-2);font-size:var(--t-sm);min-width:0;overflow-wrap:anywhere}
+.cl-o a{font-weight:700}
+.cl-key{border-left:3px solid var(--accent-line)}
+.cl-show{border:1.5px dashed var(--text-3)}
+.cl-v{color:var(--text-2);font-size:var(--t-xs)}
+.cl-t{justify-self:start;font-size:11px;font-weight:700;padding:2px 7px;border-radius:var(--r-pill);background:var(--accent);color:var(--on-accent)}
+.cl-ms{list-style:none;padding:0;display:grid;gap:4px}
+.cl-m{font-size:var(--t-xs);color:var(--text-2);padding-left:14px;position:relative;overflow-wrap:anywhere}
+.cl-m::before{content:"";position:absolute;left:0;top:.45em;width:8px;height:8px;border-radius:50%;background:var(--accent-line)}
+.cl-end::before{background:var(--note-text)}
+.cl-none,.cl-e{font-size:var(--t-xs);color:var(--text-3)}
+.cl-e a{color:var(--text-2)}
+.cl-p{color:var(--text-2);margin-bottom:var(--s-3);max-width:var(--measure)}
+.cl-list{grid-template-columns:repeat(auto-fill,minmax(min(240px,100%),1fr))}
+.cl-q{display:grid;gap:8px;padding-left:18px;margin-bottom:var(--s-4);max-width:var(--measure);font-size:var(--t-sm)}
+.cl-q q{display:block;color:var(--text-2);font-style:italic}
+.cl-stale{margin-top:var(--s-3);color:var(--note-text)}
+@media (min-width:1024px){
+  .cal{grid-template-columns:repeat(7,minmax(0,1fr))}
+  .cl-d{grid-template-columns:minmax(0,1fr);padding:12px 10px;min-height:220px}
+  .cl-d>*:not(.cl-dh){grid-column:1}
+  .cl-dh{grid-row:auto;flex-direction:row;flex-wrap:wrap;justify-content:space-between;padding-bottom:8px;border-bottom:1px dashed var(--line)}
+  .cl-dn{font-size:1.5rem}
+}
+
+@media (prefers-reduced-motion:no-preference){
+  .cl-d{animation:rise .4s var(--ease-out) both}
+  .cl-d:nth-child(2){animation-delay:.03s}.cl-d:nth-child(3){animation-delay:.06s}.cl-d:nth-child(4){animation-delay:.09s}
+  .cl-d:nth-child(5){animation-delay:.12s}.cl-d:nth-child(6){animation-delay:.15s}.cl-d:nth-child(7){animation-delay:.18s}
+}
+/* a busy day or list: one closed group per bank, never a stack of 20 cards */
+.cl-gs{display:grid;gap:6px}
+.cl-list.cl-gs,.cl-gs{grid-template-columns:repeat(auto-fill,minmax(min(240px,100%),1fr));align-items:start}
+.cl-d .cl-gs{grid-template-columns:minmax(0,1fr)}
+.cl-g{border:1px solid var(--line);border-radius:var(--r-1);background:var(--surface)}
+.cl-g summary{display:flex;align-items:center;justify-content:space-between;gap:8px;min-height:44px;padding:0 10px;cursor:pointer;font-size:var(--t-sm);font-weight:700}
+.cl-g summary::-webkit-details-marker{display:none}
+.cl-gn{font-size:var(--t-xs);font-weight:700;color:var(--text-3);white-space:nowrap}
+.cl-g[open]>.cl-ul,.cl-g[open]>.cl-q{padding:0 8px 8px}
+.cl-fold{max-width:var(--measure);margin-bottom:var(--s-4)}
+.cl-fold .cl-q{padding-left:26px}

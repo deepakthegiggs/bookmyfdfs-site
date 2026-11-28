@@ -1,0 +1,18 @@
+/* "Before you pay" (decision 154): inlined on offer pages and /calendar/ only, so the shared stylesheet doesn't grow.
+   tests/test_plan_p3.py runs the site.css colour checks on it. */
+/* the checklist: a compact native <details> */
+.bp{margin-top:var(--s-5);max-width:640px;border:1px solid var(--line);border-radius:var(--r-3);background:var(--surface)}
+.bp summary{display:flex;align-items:center;gap:12px;min-height:48px;padding:0 16px;cursor:pointer;list-style:none;font-weight:700}
+.bp summary::-webkit-details-marker{display:none}
+.bp summary::after{content:"";width:7px;height:7px;border:solid currentColor;border-width:0 2px 2px 0;transform:rotate(45deg);margin-top:-4px;transition:transform var(--d-fast)}
+.bp[open] summary::after{transform:rotate(-135deg);margin-top:3px}
+.bp-c{margin-left:auto;font-size:var(--t-xs);font-weight:700;color:var(--text-3);letter-spacing:.04em;text-transform:uppercase}
+.bp-l{list-style:none;padding:0 16px 4px;margin:0;counter-reset:bp;display:grid}
+.bp-l li{display:grid;grid-template-columns:28px 1fr;gap:10px;padding:12px 0;border-top:1px dashed var(--line);counter-increment:bp;font-size:var(--t-sm)}
+.bp-n::before{content:counter(bp);display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--accent);color:var(--on-accent);font:700 var(--t-xs)/1 var(--font)}
+.bp-h{font-weight:700;color:var(--text)}
+.bp-l p{color:var(--text-2)}
+.bp-x{margin-top:4px;display:grid;gap:2px}
+.bp-l .bp-x,.bp-this{color:var(--text)}
+.bp-f{padding:10px 16px 14px;font-size:var(--t-xs);color:var(--text-3);border-top:1px dashed var(--line)}
+

@@ -1,0 +1,48 @@
+# Deploys the FDFS MCP server (gen/mcp-worker/) to Cloudflare Workers at its free workers.dev address.
+# Added 27 Nov 2026 at the owner's yes, from docs/growth/proposals/mcp-deploy.yml.
+# Needs repository secrets CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID (set by the owner), and optionally the
+# repository variable FDFS_MCP_URL to override the /mcp address the smoke test calls.
+# Offer data needs no deploy: the Worker reads https://bookmyfdfs.in/offers.json and keeps it 10 minutes.
+name: Deploy MCP server
+
+on:
+  push:
+    branches: [site-src]
+    paths: ["gen/mcp-worker/**", "gen/fdfs_mcp.py", "tests/test_mcp_worker.py", "tests/mcp_worker_harness.mjs"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mcp-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Worker matches the Python server
+        run: python -m unittest tests.test_mcp_worker -v
+      - name: Deploy
+        working-directory: gen/mcp-worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4.167.0 deploy
+      - name: Smoke test
+        env:
+          URL: ${{ vars.FDFS_MCP_URL || 'https://fdfs-mcp.deepakthegiggs.workers.dev/mcp' }}
+        run: |
+          out=$(curl -sS --fail -X POST "$URL" -H 'Content-Type: application/json' \
+            -H 'Accept: application/json, text/event-stream' \
+            -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"list_banks","arguments":{}}}')
+          echo "$out" | python -c 'import json,sys; r=json.load(sys.stdin)["result"]; assert not r.get("isError"), r; print(r["structuredContent"]["count"], "banks")'

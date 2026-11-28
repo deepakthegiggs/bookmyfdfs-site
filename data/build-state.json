@@ -1,0 +1,764 @@
+{
+ "/": {
+  "hash": "d76e649d156d2223",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/about/": {
+  "hash": "c6eac8b80d1e5fac",
+  "lastmod": "2026-11-25",
+  "modified": "2026-11-25T20:43:06+05:30",
+  "noindex": false
+ },
+ "/agents/": {
+  "hash": "682aa635b2fb8a7b",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ },
+ "/bank/au/": {
+  "hash": "56280d248bd27885",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:39+05:30",
+  "noindex": false
+ },
+ "/bank/au/bookmyshow/": {
+  "hash": "1905c7a57aa0f036",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ },
+ "/bank/au/district/": {
+  "hash": "689f945a8db51e64",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:39+05:30",
+  "noindex": false
+ },
+ "/bank/axis/": {
+  "hash": "c6657e36eb0630b3",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:34+05:30",
+  "noindex": false
+ },
+ "/bank/axis/bookmyshow/": {
+  "hash": "166c869a7f4fff86",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:50+05:30",
+  "noindex": false
+ },
+ "/bank/axis/district/": {
+  "hash": "b3dc37b0322bd5c1",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:34+05:30",
+  "noindex": false
+ },
+ "/bank/bandhan/": {
+  "hash": "3f6821cb576fadcc",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:53+05:30",
+  "noindex": false
+ },
+ "/bank/dbs/": {
+  "hash": "d4b92688bc5bb104",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:24+05:30",
+  "noindex": false
+ },
+ "/bank/hdfc-bank/": {
+  "hash": "11c89358223b6766",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:12+05:30",
+  "noindex": false
+ },
+ "/bank/hsbc/": {
+  "hash": "91165c9de64d1f2a",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/bank/icici/": {
+  "hash": "7432198886aea8a5",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:26+05:30",
+  "noindex": false
+ },
+ "/bank/idfc-first/": {
+  "hash": "79987332228f61b1",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:04+05:30",
+  "noindex": false
+ },
+ "/bank/indusind/": {
+  "hash": "5b1434aa097267e9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:23+05:30",
+  "noindex": false
+ },
+ "/bank/rbl-bank/": {
+  "hash": "62fa3f3dc73f6c00",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/bank/sbi-card/": {
+  "hash": "507edade9cb20605",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:22:23+05:30",
+  "noindex": false
+ },
+ "/best-card-for-movie-tickets/": {
+  "hash": "10d24bdda770f139",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/bookmyshow-offers/": {
+  "hash": "5ff7bbf1b93883aa",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/calendar/": {
+  "hash": "389d3d7a651e166e",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/card/au-laksya/": {
+  "hash": "5bbd9d72243e3e27",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:39+05:30",
+  "noindex": false
+ },
+ "/card/au-royale/": {
+  "hash": "565582b6eed6b645",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ },
+ "/card/axis-burgundy-private/": {
+  "hash": "788f34582aa34eb9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:22:56+05:30",
+  "noindex": false
+ },
+ "/card/axis-burgundy/": {
+  "hash": "96e061738e24dccc",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:17:24+05:30",
+  "noindex": false
+ },
+ "/card/axis-indianoil/": {
+  "hash": "227f20dd575da384",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:23:38+05:30",
+  "noindex": false
+ },
+ "/card/axis-my-zone/": {
+  "hash": "264759e0525a79e2",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:57+05:30",
+  "noindex": false
+ },
+ "/card/axis-neo/": {
+  "hash": "5ba5945514412ef3",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:50+05:30",
+  "noindex": false
+ },
+ "/card/axis-olympus/": {
+  "hash": "62613e34728d108f",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:22:34+05:30",
+  "noindex": false
+ },
+ "/card/axis-priority/": {
+  "hash": "c1bad6c7955cce85",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:00+05:30",
+  "noindex": false
+ },
+ "/card/axis-privilege/": {
+  "hash": "012320fa3a6cc604",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:17:02+05:30",
+  "noindex": false
+ },
+ "/card/axis-reserve/": {
+  "hash": "d0ff6fe77ae0a148",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:16:41+05:30",
+  "noindex": false
+ },
+ "/card/axis-select/": {
+  "hash": "d15a508fe73657b5",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:34+05:30",
+  "noindex": false
+ },
+ "/card/bandhan-elite/": {
+  "hash": "73e4323f84b416be",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:53+05:30",
+  "noindex": false
+ },
+ "/card/bandhan-mastercard-platinum-plus/": {
+  "hash": "d38dc6563abc2963",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:13:19+05:30",
+  "noindex": false
+ },
+ "/card/dbs-vantage/": {
+  "hash": "caaf8a636402df71",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:24+05:30",
+  "noindex": false
+ },
+ "/card/hdfc-bank-diners-club-privilege/": {
+  "hash": "e422ee92873b1976",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:12+05:30",
+  "noindex": false
+ },
+ "/card/hsbc-premier/": {
+  "hash": "41c75615cc4ae3bc",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/card/icici-adani-one-icici-bank-platinum/": {
+  "hash": "53a287ae8ccdf7f9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:20:22+05:30",
+  "noindex": false
+ },
+ "/card/icici-adani-one-signature/": {
+  "hash": "99bf42d507465081",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:19:59+05:30",
+  "noindex": false
+ },
+ "/card/icici-chennai-super-kings/": {
+  "hash": "5782c2c0f1540959",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:21:30+05:30",
+  "noindex": false
+ },
+ "/card/icici-coral/": {
+  "hash": "c6ec3341ba9c38e1",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:26+05:30",
+  "noindex": false
+ },
+ "/card/icici-emeralde/": {
+  "hash": "81093495102e3317",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:16:30+05:30",
+  "noindex": false
+ },
+ "/card/icici-emirates-emeralde/": {
+  "hash": "7ec720ad72f5ee27",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:19:16+05:30",
+  "noindex": false
+ },
+ "/card/icici-emirates-sapphiro/": {
+  "hash": "e847a8c9104d49e6",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:19:36+05:30",
+  "noindex": false
+ },
+ "/card/icici-expressions/": {
+  "hash": "895416ed9ebb1a62",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:21:52+05:30",
+  "noindex": false
+ },
+ "/card/icici-hpcl-super-saver/": {
+  "hash": "c29a4989b53449c9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:21:06+05:30",
+  "noindex": false
+ },
+ "/card/icici-makemytrip/": {
+  "hash": "8670d0c41e916b9b",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:20:45+05:30",
+  "noindex": false
+ },
+ "/card/icici-rubyx/": {
+  "hash": "b894935537f86f86",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:47+05:30",
+  "noindex": false
+ },
+ "/card/icici-sapphiro/": {
+  "hash": "af41ab5015344d9f",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:16:07+05:30",
+  "noindex": false
+ },
+ "/card/idfc-first-ashva/": {
+  "hash": "35571df23cc6d353",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:17:38+05:30",
+  "noindex": false
+ },
+ "/card/idfc-first-classic/": {
+  "hash": "74fc4e511a915c45",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:04+05:30",
+  "noindex": false
+ },
+ "/card/idfc-first-mayura/": {
+  "hash": "5cfb32affef46e89",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:18:02+05:30",
+  "noindex": false
+ },
+ "/card/idfc-first-select/": {
+  "hash": "dee1049fbff4ef10",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:04+05:30",
+  "noindex": false
+ },
+ "/card/indusind-crest/": {
+  "hash": "f3c059eba7e6e317",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:13:31+05:30",
+  "noindex": false
+ },
+ "/card/indusind-eazydiner-platinum/": {
+  "hash": "bc44809fecea0f57",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:23+05:30",
+  "noindex": false
+ },
+ "/card/indusind-indulge/": {
+  "hash": "bf78e0ff083b700d",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:13:53+05:30",
+  "noindex": false
+ },
+ "/card/rbl-bank-insignia/": {
+  "hash": "5736c88318326b5b",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/card/rbl-bank-platinum-advantage/": {
+  "hash": "4b928a696c06ad75",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/card/rbl-bank-platinum-maxima/": {
+  "hash": "f185aec459c35af5",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/card/sbi-card-aurum/": {
+  "hash": "351f5ffd20e6c355",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:22:23+05:30",
+  "noindex": false
+ },
+ "/changes/": {
+  "hash": "ad72265cb86e5165",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ },
+ "/corrections/": {
+  "hash": "875a1179f9c3ac50",
+  "lastmod": "2026-11-25",
+  "modified": "2026-11-25T20:43:06+05:30",
+  "noindex": false
+ },
+ "/disclosures/": {
+  "hash": "0250bcf14860ded1",
+  "lastmod": "2026-11-25",
+  "modified": "2026-11-25T22:03:58+05:30",
+  "noindex": false
+ },
+ "/district-offers/": {
+  "hash": "335899e40713c0ec",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:34+05:30",
+  "noindex": false
+ },
+ "/guide/how-movie-card-offers-work/": {
+  "hash": "31a7d547f5e05efa",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ },
+ "/how-we-check/": {
+  "hash": "aa50103b18e4a6f2",
+  "lastmod": "2026-11-25",
+  "modified": "2026-11-25T20:43:06+05:30",
+  "noindex": false
+ },
+ "/offer/au-laksya-district-bogo/": {
+  "hash": "7300577b601554da",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:39+05:30",
+  "noindex": false
+ },
+ "/offer/au-royale-debit-bms-bogo/": {
+  "hash": "bfcbbca076bcde8f",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ },
+ "/offer/axis-burgundy-debit-bms-bogo/": {
+  "hash": "b9d5c73a6beed3f2",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:17:24+05:30",
+  "noindex": false
+ },
+ "/offer/axis-burgundy-private-cc-bms-bogo/": {
+  "hash": "c9ec28f06e25aaa9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:23:17+05:30",
+  "noindex": false
+ },
+ "/offer/axis-burgundy-private-debit-bms-bogo/": {
+  "hash": "45fade4d74e1559e",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:22:56+05:30",
+  "noindex": false
+ },
+ "/offer/axis-indianoil-bms-10pct/": {
+  "hash": "2944dd8bcf54c2df",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:23:38+05:30",
+  "noindex": false
+ },
+ "/offer/axis-myzone-district-bogo/": {
+  "hash": "d14a981f3aeb64f8",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:57+05:30",
+  "noindex": false
+ },
+ "/offer/axis-neo-bms-10pct/": {
+  "hash": "888e2081dbdd259c",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:50+05:30",
+  "noindex": false
+ },
+ "/offer/axis-olympus-bms-bogo/": {
+  "hash": "8f67ba544c20319c",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:22:34+05:30",
+  "noindex": false
+ },
+ "/offer/axis-priority-debit-bms-25pct/": {
+  "hash": "d061d10f64b93258",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:00+05:30",
+  "noindex": false
+ },
+ "/offer/axis-privilege-district-bogo/": {
+  "hash": "287c0d653194aa5a",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:17:02+05:30",
+  "noindex": false
+ },
+ "/offer/axis-reserve-bms-bogo/": {
+  "hash": "867ee51431514243",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:16:41+05:30",
+  "noindex": false
+ },
+ "/offer/axis-select-district-bogo/": {
+  "hash": "e65ccd631be8e7ad",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:34+05:30",
+  "noindex": false
+ },
+ "/offer/bandhan-elite-debit-bms-bogo/": {
+  "hash": "f0a22a6d5bf2b316",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:53+05:30",
+  "noindex": false
+ },
+ "/offer/bandhan-mastercard-platinum-plus-debit-bms-bogo/": {
+  "hash": "0fdfa9b55cf89c15",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:13:19+05:30",
+  "noindex": false
+ },
+ "/offer/dbs-vantage-bms-50pct/": {
+  "hash": "d499f7e83c26517c",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:24+05:30",
+  "noindex": false
+ },
+ "/offer/hdfc-diners-privilege-bms-bogo/": {
+  "hash": "6930073d381e26c8",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:12+05:30",
+  "noindex": false
+ },
+ "/offer/hsbc-allcards-bms-events-10pct/": {
+  "hash": "fdba927a44300f1d",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/offer/hsbc-premier-bms-bogo/": {
+  "hash": "47e17214c9a14df4",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/offer/hsbc-select-bms-saturday-bogo/": {
+  "hash": "f0aa3bcc7e8f7be2",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/offer/icici-adani-one-platinum-card-bms-25pct/": {
+  "hash": "0f72b4cbc7da367d",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:20:22+05:30",
+  "noindex": false
+ },
+ "/offer/icici-adani-one-signature-card-bms-bogo/": {
+  "hash": "c16a75b254064c7a",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:19:59+05:30",
+  "noindex": false
+ },
+ "/offer/icici-coral-card-bms-25pct/": {
+  "hash": "72dc0f4697c2cd74",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:26+05:30",
+  "noindex": false
+ },
+ "/offer/icici-coral-debit-bms-25pct/": {
+  "hash": "e363e94aeb53a4de",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:18:34+05:30",
+  "noindex": false
+ },
+ "/offer/icici-csk-card-bms-25pct/": {
+  "hash": "0e1bc89a5f204361",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:21:30+05:30",
+  "noindex": false
+ },
+ "/offer/icici-emeralde-card-bms-bogo/": {
+  "hash": "805d4add6a0e6f0b",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:16:30+05:30",
+  "noindex": false
+ },
+ "/offer/icici-emirates-emeralde-card-bms-bogo/": {
+  "hash": "ff2ae2a201713f47",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:19:16+05:30",
+  "noindex": false
+ },
+ "/offer/icici-emirates-sapphiro-card-bms-bogo/": {
+  "hash": "3cff6b3389e1377c",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:19:36+05:30",
+  "noindex": false
+ },
+ "/offer/icici-expressions-card-bms-25pct/": {
+  "hash": "40f26e723207e8bf",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:21:52+05:30",
+  "noindex": false
+ },
+ "/offer/icici-hpcl-super-saver-card-bms-25pct/": {
+  "hash": "bd58adf445d23ec5",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:21:06+05:30",
+  "noindex": false
+ },
+ "/offer/icici-makemytrip-card-bms-25pct/": {
+  "hash": "cbd3e02173ddac9b",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:20:45+05:30",
+  "noindex": false
+ },
+ "/offer/icici-rubyx-card-bms-25pct/": {
+  "hash": "96f4e54b38294520",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:15:47+05:30",
+  "noindex": false
+ },
+ "/offer/icici-rubyx-debit-bms-25pct/": {
+  "hash": "3dd4d35ad75626a9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:18:55+05:30",
+  "noindex": false
+ },
+ "/offer/icici-sapphiro-card-bms-bogo/": {
+  "hash": "8c10bb35d341f708",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:16:07+05:30",
+  "noindex": false
+ },
+ "/offer/icici-sapphiro-debit-bms-25pct/": {
+  "hash": "8e807ebbd83d9df3",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:18:14+05:30",
+  "noindex": false
+ },
+ "/offer/idfc-ashva-district-bogo/": {
+  "hash": "903411160ff53fb7",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:17:38+05:30",
+  "noindex": false
+ },
+ "/offer/idfc-classic-district-bogo/": {
+  "hash": "29e70232c3f7da49",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:04+05:30",
+  "noindex": false
+ },
+ "/offer/idfc-mayura-district-bogo/": {
+  "hash": "c87149df89b89bd0",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:18:02+05:30",
+  "noindex": false
+ },
+ "/offer/idfc-select-district-bogo/": {
+  "hash": "23c8166eff787eb4",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:04+05:30",
+  "noindex": false
+ },
+ "/offer/idfc-wealth-diamond-district-bogo/": {
+  "hash": "3aa5bbc931a020c9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:12:04+05:30",
+  "noindex": false
+ },
+ "/offer/indusind-crest-bms-bogo/": {
+  "hash": "56940c598eb0080a",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:13:31+05:30",
+  "noindex": false
+ },
+ "/offer/indusind-eazydiner-platinum-bms-bogo/": {
+  "hash": "23bafc65ed5ef105",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:10:23+05:30",
+  "noindex": false
+ },
+ "/offer/indusind-indulge-bms-bogo/": {
+  "hash": "b94f38183015ece2",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:13:53+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-10pct-15peryear-bms/": {
+  "hash": "d34e8b84a20f8739",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-10pct300-monthly-bms/": {
+  "hash": "e5f3c48c1a7433f8",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-bogo200-alldays-monthly-bms-2/": {
+  "hash": "8d45f3bded283fb4",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-bogo200-alldays-monthly-bms/": {
+  "hash": "1a34d810e507ec87",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-bogo200-alldays-twice-bms/": {
+  "hash": "f9fd0fb66095d302",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-bogo200-wednesday-bms/": {
+  "hash": "3cea7e7e5523bac2",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-bogo200-weekend-bms/": {
+  "hash": "5e5e7e0698d578f8",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-insignia-500off-bms/": {
+  "hash": "5d005edd0251e382",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-platinum-advantage-20pct-bms/": {
+  "hash": "7ef620732a10ffe0",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/rbl-platinum-maxima-bogo100-bms/": {
+  "hash": "117a834b46be7cb9",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:14:16+05:30",
+  "noindex": false
+ },
+ "/offer/sbicard-aurum-bms-complimentary/": {
+  "hash": "fe9cbad4e01bd1a2",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:22:23+05:30",
+  "noindex": false
+ },
+ "/offers-on/friday/": {
+  "hash": "6fea2e1c5953dae6",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/offers-on/saturday/": {
+  "hash": "39d35cdd9d8f4f61",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/offers-on/sunday/": {
+  "hash": "de6737510ff19b2e",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/offers-on/wednesday/": {
+  "hash": "0885fcf04f3f348a",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:09:25+05:30",
+  "noindex": false
+ },
+ "/spotted/": {
+  "hash": "3ceb93836a9303d4",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ },
+ "/this-week/": {
+  "hash": "30b352fa719483f2",
+  "lastmod": "2026-11-28",
+  "modified": "2026-11-28T07:24:13+05:30",
+  "noindex": false
+ }
+}

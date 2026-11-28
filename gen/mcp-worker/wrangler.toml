@@ -1,0 +1,14 @@
+# Cloudflare Worker for the hosted FDFS MCP server (see docs/growth/mcp-hosting.md and mcp-launch.md).
+# Nothing here is deployed yet. The owner decides when, from their own computer or from the proposed workflow in
+# docs/growth/proposals/mcp-deploy.yml. No account id is kept in the repo: wrangler reads CLOUDFLARE_ACCOUNT_ID and
+# CLOUDFLARE_API_TOKEN from the environment.
+name = "fdfs-mcp"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+workers_dev = true          # free address: https://fdfs-mcp.<account subdomain>.workers.dev/mcp
+
+# When bookmyfdfs.in's DNS is on Cloudflare, uncomment to serve https://mcp.bookmyfdfs.in/mcp instead:
+# routes = [{ pattern = "mcp.bookmyfdfs.in", custom_domain = true }]
+
+[vars]
+FDFS_FEED = "https://bookmyfdfs.in/offers.json"

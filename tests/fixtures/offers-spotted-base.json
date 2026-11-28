@@ -1,0 +1,602 @@
+{
+  "generated_at": "2026-11-25T11:07:58+00:00",
+  "offers": [
+    {
+      "cap_text": "up to ₹200 a month",
+      "cap_type": "per_month",
+      "card_variants": [
+        "MY ZONE"
+      ],
+      "category": "card",
+      "channel": null,
+      "check_method": "auto",
+      "checked_at": "2026-11-25T11:04:52.498844+00:00",
+      "checked_by": "watchdog",
+      "checked_on": "2026-11-25",
+      "cities": [],
+      "code": "AXIS200",
+      "condition_codes": [
+        {
+          "code": "monthly_limit",
+          "quote": "Offer Valid once a month"
+        },
+        {
+          "code": "spend_gate",
+          "quote": "Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months"
+        },
+        {
+          "code": "new_card_spend_waiver",
+          "quote": "In the case of a newly issued card, the minimum spends criteria is waived for the month of card issuance as well as the following 3 calendar months",
+          "source_url": "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-myzone-cc-bogo-free-district-offer.pdf"
+        }
+      ],
+      "conditions": [
+        "new_card_spend_waiver"
+      ],
+      "day_basis": null,
+      "days": [],
+      "display_name": "Axis Bank My Zone Credit Card",
+      "excludes": [],
+      "first_verified_at": "2026-11-25T11:04:52.498844+00:00",
+      "how_to_redeem": {
+        "label": "AXIS200",
+        "method": "code"
+      },
+      "id": "axis-myzone-district-bogo",
+      "instrument": "credit",
+      "issuer": "Axis",
+      "kind": "bogo",
+      "min_tickets": null,
+      "monthly_limit": 1,
+      "network": null,
+      "per_txn_cap": null,
+      "platform": "district",
+      "quota_note": "Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months",
+      "quote_sources": {
+        "conditions:new_card_spend_waiver": "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-myzone-cc-bogo-free-district-offer.pdf"
+      },
+      "quotes": {
+        "card_variants": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+        "category": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+        "code": "Remember to apply the coupon code AXIS200 to receive this discount",
+        "conditions:new_card_spend_waiver": "In the case of a newly issued card, the minimum spends criteria is waived for the month of card issuance as well as the following 3 calendar months",
+        "display_name": "Axis Bank My Zone Credit Card",
+        "how_to_redeem": "Remember to apply the coupon code AXIS200 to receive this discount",
+        "instrument": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+        "issuer": "Axis Bank My Zone Credit Card",
+        "kind": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+        "monthly_limit": "Offer Valid once a month",
+        "platform": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+        "quota_note": "Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months",
+        "value": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month",
+        "variants_scope": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card. Get up to ₹200 off per month"
+      },
+      "requires_purchase": null,
+      "show_days": [],
+      "source_kind": "official",
+      "source_url": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+      "state": "terms_verified",
+      "terms_urls": [
+        "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+        "https://www.axis.bank.in/docs/default-source/default-document-library/terms-and-conditions-for-myzone-cc-bogo-free-district-offer.pdf"
+      ],
+      "valid_from": null,
+      "valid_to": null,
+      "validity_note": null,
+      "value": {
+        "cap": 200,
+        "cap_unit": "month"
+      },
+      "variants_scope": "listed"
+    },
+    {
+      "cap_text": "up to ₹250",
+      "cap_type": "per_ticket",
+      "card_variants": [
+        "Select"
+      ],
+      "category": "card",
+      "channel": "app",
+      "check_method": "auto",
+      "checked_at": "2026-11-25T11:04:52.498844+00:00",
+      "checked_by": "watchdog",
+      "checked_on": "2026-11-25",
+      "cities": [],
+      "code": "AXISSELECT",
+      "condition_codes": [
+        {
+          "code": "app_only",
+          "quote": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month"
+        },
+        {
+          "code": "monthly_limit",
+          "quote": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month"
+        },
+        {
+          "code": "spend_gate",
+          "quote": "Effective 1st Nov 2026, access to the Movie Offer will be subject to a minimum eligible spend of 25,000 in the preceding 3 calendar months"
+        },
+        {
+          "code": "new_card_spend_waiver",
+          "quote": "For newly issued cards, the minimum spend criteria shall be waived for the month of card issuance and the subsequent 3 calendar months",
+          "source_url": "https://campaign.axis.bank.in/2026/cs/mbpush/july/ip_july26_108_spend_based_movie_offer.pdf"
+        }
+      ],
+      "conditions": [
+        "new_card_spend_waiver"
+      ],
+      "day_basis": null,
+      "days": [],
+      "display_name": "Axis Bank SELECT Credit Card",
+      "excludes": [],
+      "first_verified_at": "2026-11-25T11:04:52.498844+00:00",
+      "how_to_redeem": {
+        "label": "AXISSELECT",
+        "method": "code"
+      },
+      "id": "axis-select-district-bogo",
+      "instrument": "credit",
+      "issuer": "Axis",
+      "kind": "bogo",
+      "min_tickets": null,
+      "monthly_limit": 2,
+      "network": null,
+      "per_txn_cap": null,
+      "platform": "district",
+      "quota_note": "Effective 1st Nov 2026, access to the Movie Offer will be subject to a minimum eligible spend of 25,000 in the preceding 3 calendar months",
+      "quote_sources": {
+        "conditions:new_card_spend_waiver": "https://campaign.axis.bank.in/2026/cs/mbpush/july/ip_july26_108_spend_based_movie_offer.pdf"
+      },
+      "quotes": {
+        "card_variants": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "category": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "channel": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "code": "Apply the code AXISSELECT to get this discount",
+        "conditions:new_card_spend_waiver": "For newly issued cards, the minimum spend criteria shall be waived for the month of card issuance and the subsequent 3 calendar months",
+        "display_name": "The Axis Bank SELECT Credit Card fees",
+        "how_to_redeem": "Apply the code AXISSELECT to get this discount",
+        "instrument": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "issuer": "Axis Bank Select Credit Card",
+        "kind": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "monthly_limit": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "platform": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "quota_note": "Effective 1st Nov 2026, access to the Movie Offer will be subject to a minimum eligible spend of 25,000 in the preceding 3 calendar months",
+        "value": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month",
+        "variants_scope": "Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card. Get up to ₹250 off, twice per month"
+      },
+      "requires_purchase": null,
+      "show_days": [],
+      "source_kind": "official",
+      "source_url": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+      "state": "terms_verified",
+      "terms_urls": [
+        "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+        "https://campaign.axis.bank.in/2026/cs/mbpush/july/ip_july26_108_spend_based_movie_offer.pdf"
+      ],
+      "valid_from": null,
+      "valid_to": null,
+      "validity_note": null,
+      "value": {
+        "free_cap": 250
+      },
+      "variants_scope": "listed"
+    },
+    {
+      "cap_text": "up to ₹1000 a month",
+      "cap_type": "per_month",
+      "card_variants": [],
+      "category": "events",
+      "channel": "app",
+      "check_method": "auto",
+      "checked_at": "2026-11-25T11:04:52.498844+00:00",
+      "checked_by": "watchdog",
+      "checked_on": "2026-11-25",
+      "cities": [],
+      "code": null,
+      "condition_codes": [
+        {
+          "code": "app_only",
+          "quote": "only on BookMyShow mobile application"
+        },
+        {
+          "code": "monthly_limit",
+          "quote": "The offer is valid once per card per month"
+        },
+        {
+          "code": "quota",
+          "quote": "The offer will be applicable for first 1,000 transactions per month"
+        },
+        {
+          "code": "excludes_movies_and_streams",
+          "quote": "This offer is not valid on Movies and Streams"
+        },
+        {
+          "code": "full_payment_on_card",
+          "quote": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer"
+        },
+        {
+          "code": "no_wallet",
+          "quote": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer"
+        },
+        {
+          "code": "overdue_cards_excluded",
+          "quote": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date"
+        }
+      ],
+      "conditions": [
+        "full_payment_on_card",
+        "no_wallet",
+        "overdue_cards_excluded"
+      ],
+      "day_basis": null,
+      "days": [],
+      "display_name": "HSBC Credit Cards",
+      "excludes": [
+        "Movies and Streams"
+      ],
+      "first_verified_at": "2026-11-25T11:04:52.498844+00:00",
+      "how_to_redeem": {},
+      "id": "hsbc-allcards-bms-events-10pct",
+      "instrument": "credit",
+      "issuer": "HSBC",
+      "kind": "pct",
+      "min_tickets": null,
+      "monthly_limit": 1,
+      "network": null,
+      "per_txn_cap": null,
+      "platform": "bms",
+      "quota_note": "The offer will be applicable for first 1,000 transactions per month",
+      "quote_sources": {},
+      "quotes": {
+        "category": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+        "channel": "only on BookMyShow mobile application",
+        "conditions:full_payment_on_card": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer",
+        "conditions:no_wallet": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer",
+        "conditions:overdue_cards_excluded": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date",
+        "display_name": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+        "excludes": "This offer is not valid on Movies and Streams",
+        "instrument": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+        "issuer": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+        "kind": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets",
+        "monthly_limit": "The offer is valid once per card per month",
+        "platform": "only on BookMyShow mobile application",
+        "quota_note": "The offer will be applicable for first 1,000 transactions per month",
+        "valid_from": "During the period from 1 July 2026 to 31 December 2026",
+        "valid_to": "During the period from 1 July 2026 to 31 December 2026",
+        "value": "10% off on live events, up to ₹1000/month on all HSBC Credit Cards",
+        "variants_scope": "Offer on Live Events on all HSBC Credit Cards Offer Construct: 10% off up to ₹1000 on booking live event tickets"
+      },
+      "requires_purchase": null,
+      "show_days": [],
+      "source_kind": "official",
+      "source_url": "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/",
+      "state": "terms_verified",
+      "terms_urls": [
+        "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/"
+      ],
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-12-31",
+      "validity_note": null,
+      "value": {
+        "cap": 1000,
+        "cap_unit": "month",
+        "pct": 10
+      },
+      "variants_scope": "all"
+    },
+    {
+      "cap_text": "up to ₹750",
+      "cap_type": "per_ticket",
+      "card_variants": [
+        "Premier"
+      ],
+      "category": "card",
+      "channel": "app",
+      "check_method": "auto",
+      "checked_at": "2026-11-25T11:04:52.498844+00:00",
+      "checked_by": "watchdog",
+      "checked_on": "2026-11-25",
+      "cities": [],
+      "code": null,
+      "condition_codes": [
+        {
+          "code": "app_only",
+          "quote": "only on BookMyShow mobile application"
+        },
+        {
+          "code": "monthly_limit",
+          "quote": "The offer is valid twice per card per month"
+        },
+        {
+          "code": "excludes_corporate_cardholders",
+          "quote": "excluding corporate cardholders"
+        },
+        {
+          "code": "full_payment_on_card",
+          "quote": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer"
+        },
+        {
+          "code": "no_wallet",
+          "quote": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer"
+        },
+        {
+          "code": "overdue_cards_excluded",
+          "quote": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date"
+        }
+      ],
+      "conditions": [
+        "full_payment_on_card",
+        "no_wallet",
+        "overdue_cards_excluded"
+      ],
+      "day_basis": null,
+      "days": [
+        "any"
+      ],
+      "display_name": "HSBC Premier Credit Card",
+      "excludes": [
+        "corporate cardholders"
+      ],
+      "first_verified_at": "2026-11-25T11:04:52.498844+00:00",
+      "how_to_redeem": {},
+      "id": "hsbc-premier-bms-bogo",
+      "instrument": "credit",
+      "issuer": "HSBC",
+      "kind": "bogo",
+      "min_tickets": null,
+      "monthly_limit": 2,
+      "network": "Mastercard",
+      "per_txn_cap": null,
+      "platform": "bms",
+      "quota_note": null,
+      "quote_sources": {},
+      "quotes": {
+        "card_variants": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+        "category": "using their valid HSBC Credit Card issued in India only",
+        "channel": "only on BookMyShow mobile application",
+        "conditions:full_payment_on_card": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer",
+        "conditions:no_wallet": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer",
+        "conditions:overdue_cards_excluded": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date",
+        "days": "only for Premier Credit Cardholders on all days of the week",
+        "display_name": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+        "excludes": "excluding corporate cardholders",
+        "instrument": "using their valid HSBC Credit Card issued in India only",
+        "issuer": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+        "kind": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets",
+        "monthly_limit": "The offer is valid twice per card per month",
+        "network": "Only HSBC Premier Mastercard credit cardholders can avail the offer even after the first 2000 bookings have been done on a given Saturday and can avail the offer on other week days",
+        "platform": "only on BookMyShow mobile application",
+        "valid_from": "During the period from 1 July 2026 to 31 December 2026",
+        "valid_to": "During the period from 1 July 2026 to 31 December 2026",
+        "value": "A maximum of two free tickets worth up to INR750 each can be booked in a calendar month",
+        "variants_scope": "Exclusive Offer on HSBC Premier Credit Card Offer Construct: Buy One Get One Offer on booking movie tickets"
+      },
+      "requires_purchase": null,
+      "show_days": [],
+      "source_kind": "official",
+      "source_url": "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/",
+      "state": "terms_verified",
+      "terms_urls": [
+        "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/"
+      ],
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-12-31",
+      "validity_note": null,
+      "value": {
+        "free_cap": 750
+      },
+      "variants_scope": "listed"
+    },
+    {
+      "cap_text": "up to ₹250",
+      "cap_type": "per_ticket",
+      "card_variants": [],
+      "category": "card",
+      "channel": "app",
+      "check_method": "auto",
+      "checked_at": "2026-11-25T11:04:52.498844+00:00",
+      "checked_by": "watchdog",
+      "checked_on": "2026-11-25",
+      "cities": [],
+      "code": null,
+      "condition_codes": [
+        {
+          "code": "booking_day",
+          "quote": "needs to be booked on a Saturday only"
+        },
+        {
+          "code": "show_day",
+          "quote": "applicable on tickets for a show on any day of the week"
+        },
+        {
+          "code": "app_only",
+          "quote": "only on BookMyShow mobile application"
+        },
+        {
+          "code": "monthly_limit",
+          "quote": "Offer can be used only once per card per calendar month on other HSBC credit card variants"
+        },
+        {
+          "code": "quota",
+          "quote": "Only the first 2,000 HSBC Credit Cardholders booking on a Saturday can avail the offer"
+        },
+        {
+          "code": "excludes_corporate_cardholders",
+          "quote": "excluding corporate cardholders"
+        },
+        {
+          "code": "full_payment_on_card",
+          "quote": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer"
+        },
+        {
+          "code": "no_wallet",
+          "quote": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer"
+        },
+        {
+          "code": "overdue_cards_excluded",
+          "quote": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date"
+        }
+      ],
+      "conditions": [
+        "full_payment_on_card",
+        "no_wallet",
+        "overdue_cards_excluded"
+      ],
+      "day_basis": "booking",
+      "days": [
+        "sat"
+      ],
+      "display_name": "HSBC Credit Card",
+      "excludes": [
+        "corporate cardholders"
+      ],
+      "first_verified_at": "2026-11-25T11:04:52.498844+00:00",
+      "how_to_redeem": {
+        "label": "HSBC Saturday offer: BOGO on Mobile App",
+        "method": "pick_offer"
+      },
+      "id": "hsbc-select-bms-saturday-bogo",
+      "instrument": "credit",
+      "issuer": "HSBC",
+      "kind": "bogo",
+      "min_tickets": null,
+      "monthly_limit": 1,
+      "network": null,
+      "per_txn_cap": null,
+      "platform": "bms",
+      "quota_note": "Only the first 2,000 HSBC Credit Cardholders booking on a Saturday can avail the offer",
+      "quote_sources": {},
+      "quotes": {
+        "category": "using their valid HSBC Credit Card issued in India only",
+        "channel": "only on BookMyShow mobile application",
+        "conditions:full_payment_on_card": "Transactions where payment (partial or full) is made using any other mode of payment (other bank cards or e-wallet options) will not be eligible for the Offer",
+        "conditions:no_wallet": "Transactions where payments are made with HSBC Credit Cards using any e-wallet will not be eligible for the Offer",
+        "conditions:overdue_cards_excluded": "Credit Cardholders who have not repaid their minimum payment due within 30 days of their payment due date",
+        "day_basis": "needs to be booked on a Saturday only",
+        "days": "needs to be booked on a Saturday only",
+        "display_name": "using their valid HSBC Credit Card issued in India only",
+        "excludes": "excluding corporate cardholders",
+        "how_to_redeem": "Select the \"HSBC Saturday offer: BOGO on Mobile App\" in the other offers section",
+        "instrument": "using their valid HSBC Credit Card issued in India only",
+        "issuer": "Buy One Get One offer on booking movie tickets on Saturdays using select HSBC Credit Cards",
+        "kind": "Buy One Get One offer on booking movie tickets on Saturdays using select HSBC Credit Cards",
+        "monthly_limit": "Offer can be used only once per card per calendar month on other HSBC credit card variants",
+        "platform": "only on BookMyShow mobile application",
+        "quota_note": "Only the first 2,000 HSBC Credit Cardholders booking on a Saturday can avail the offer",
+        "show_days": "applicable on tickets for a show on any day of the week",
+        "valid_from": "During the period from 1 July 2026 to 31 December 2026",
+        "valid_to": "During the period from 1 July 2026 to 31 December 2026",
+        "value": "The maximum price of the free ticket is INR250 for select HSBC Credit Cards",
+        "variants_scope": "Buy One Get One offer on booking movie tickets on Saturdays using select HSBC Credit Cards"
+      },
+      "requires_purchase": null,
+      "show_days": [
+        "any"
+      ],
+      "source_kind": "official",
+      "source_url": "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/",
+      "state": "terms_verified",
+      "terms_urls": [
+        "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/"
+      ],
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-12-31",
+      "validity_note": null,
+      "value": {
+        "free_cap": 250
+      },
+      "variants_scope": "unstated"
+    },
+    {
+      "cap_text": "up to ₹200",
+      "cap_type": "per_ticket",
+      "card_variants": [
+        "Eazydiner Platinum"
+      ],
+      "category": "card",
+      "channel": "both",
+      "check_method": "auto",
+      "checked_at": "2026-11-25T11:04:52.498844+00:00",
+      "checked_by": "watchdog",
+      "checked_on": "2026-11-25",
+      "cities": [],
+      "code": null,
+      "condition_codes": [
+        {
+          "code": "min_tickets",
+          "quote": "Minimum 2 tickets need to be purchased in a single transaction"
+        },
+        {
+          "code": "monthly_limit",
+          "quote": "This offer can be availed once in a calendar month on Movies"
+        },
+        {
+          "code": "bins:468936|35612929",
+          "quote": "Eligible Bins: 468936 & 35612929"
+        }
+      ],
+      "conditions": [
+        "bins:468936|35612929"
+      ],
+      "day_basis": null,
+      "days": [
+        "any"
+      ],
+      "display_name": "IndusInd Eazydiner Platinum Credit Card",
+      "excludes": [],
+      "first_verified_at": "2026-11-25T11:04:52.498844+00:00",
+      "how_to_redeem": {
+        "label": "IndusInd Bank Credit Cards BOGO Movie Offer",
+        "method": "pick_offer"
+      },
+      "id": "indusind-eazydiner-platinum-bms-bogo",
+      "instrument": "credit",
+      "issuer": "IndusInd",
+      "kind": "bogo",
+      "min_tickets": 2,
+      "monthly_limit": 1,
+      "network": null,
+      "per_txn_cap": null,
+      "platform": "bms",
+      "quota_note": null,
+      "quote_sources": {},
+      "quotes": {
+        "card_variants": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+        "category": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+        "channel": [
+          "How to avail on Mobile",
+          "How to avail on Web"
+        ],
+        "conditions:bins:468936|35612929": "Eligible Bins: 468936 & 35612929",
+        "days": "Offer is valid on all days of the week",
+        "display_name": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+        "how_to_redeem": "Select the \"IndusInd Bank Credit Cards BOGO Movie Offer \"",
+        "instrument": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+        "issuer": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+        "kind": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+        "min_tickets": "Minimum 2 tickets need to be purchased in a single transaction",
+        "monthly_limit": "This offer can be availed once in a calendar month on Movies",
+        "platform": "BookMyShow Offer Terms & Conditions",
+        "valid_to": "Offer is valid till 31st March 2027",
+        "value": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card",
+        "variants_scope": "Buy 1 Get 1 Ticket Free upto Rs. 200 on Movies with IndusInd Eazydiner Platinum Credit Card"
+      },
+      "requires_purchase": null,
+      "show_days": [],
+      "source_kind": "official",
+      "source_url": "https://www.indusind.bank.in/in/en/personal/offer-tnc/bookmyshow-tnc.html",
+      "state": "terms_verified",
+      "terms_urls": [
+        "https://www.indusind.bank.in/in/en/personal/offer-tnc/bookmyshow-tnc.html"
+      ],
+      "valid_from": null,
+      "valid_to": "2027-03-31",
+      "validity_note": null,
+      "value": {
+        "free_cap": 200
+      },
+      "variants_scope": "listed"
+    }
+  ],
+  "schema": 1
+}
