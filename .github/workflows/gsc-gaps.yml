@@ -6,6 +6,7 @@
 # No secret GSC_SA_JSON: the script prints "not configured" and exits 0, so this never fails for that reason.
 # The repo is public: outputs carry aggregated query-level data only, impressions and clicks as buckets.
 # NOTE: scheduled workflows only run from the default branch (site-src).
+# 28 Nov: re-saved in the fresh public repo so GitHub registers the schedule (a first push does not).
 name: Search Console gaps + growth scoreboard
 
 on:

@@ -9,6 +9,7 @@
 # (GitHub emails the owner about failed scheduled runs).
 # NOTE: scheduled workflows only run from the repository's DEFAULT branch (site-src since 25 Nov; this file was
 # re-saved on 26 Nov so GitHub registers the schedule there).
+# 28 Nov: re-saved in the fresh public repo so GitHub registers the schedule (a first push does not).
 name: Refresh offers
 
 on:
