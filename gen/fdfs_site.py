@@ -3344,6 +3344,22 @@ def content_hash(s: str) -> str:
     return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
 
 
+# The MCP Registry proves we own bookmyfdfs.in by reading https://bookmyfdfs.in/.well-known/mcp-registry-auth: one line with
+# the owner's PUBLIC Ed25519 key (format from modelcontextprotocol.io/registry/authentication). The private key never
+# comes near this repo. No file, nothing served; a malformed file stops the build rather than publish a broken proof.
+MCP_REGISTRY_AUTH_RX = re.compile(r"v=MCPv1; k=ed25519; p=[A-Za-z0-9+/]{43}=")
+
+
+def mcp_registry_proof(root: Path) -> str | None:
+    f = root / "data/mcp-registry-auth.txt"
+    if not f.exists():
+        return None
+    line = f.read_text(encoding="utf-8").strip()
+    if not MCP_REGISTRY_AUTH_RX.fullmatch(line):
+        raise ValueError("data/mcp-registry-auth.txt must be one line: v=MCPv1; k=ed25519; p=<base64 public key>")
+    return line
+
+
 def build(data: Path, hist: Path, out: Path, state_path: Path, cfg_path: Path, root: Path = ROOT, snapshot=False,
           render_og=False, spotted=None) -> dict:
     cfg = json.loads(Path(cfg_path).read_text(encoding="utf-8"))
@@ -3563,6 +3579,10 @@ def build(data: Path, hist: Path, out: Path, state_path: Path, cfg_path: Path, r
     if key_file.exists():
         key = key_file.read_text().strip()
         (out / f"{key}.txt").write_text(key + "\n", encoding="utf-8")
+    proof = mcp_registry_proof(root)   # MCP Registry domain proof for in.bookmyfdfs/* (public key only)
+    if proof:
+        (out / ".well-known").mkdir(exist_ok=True)
+        (out / ".well-known/mcp-registry-auth").write_text(proof + "\n", encoding="utf-8")
     (out / "site.webmanifest").write_text(json.dumps({
         "name": "FDFS · Film · Deals · Friends · Seats", "short_name": "FDFS", "start_url": "/", "display": "browser",
         "background_color": "#F6F5EE", "theme_color": "#203229", "icons": [

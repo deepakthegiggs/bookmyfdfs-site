@@ -353,6 +353,34 @@ class Deploy(Base):
         self.assertIn("https://bookmyfdfs.in/", r.stdout)
 
 
+class McpRegistryProof(unittest.TestCase):
+    """/.well-known/mcp-registry-auth: the public key line only, checked before it can be served."""
+    def root_with(self, text):
+        r = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, r)
+        (r / "data").mkdir()
+        if text is not None:
+            (r / "data/mcp-registry-auth.txt").write_text(text, encoding="utf-8")
+        return r
+
+    def test_no_file_serves_nothing(self):
+        self.assertIsNone(g.mcp_registry_proof(self.root_with(None)))
+
+    def test_public_key_line_is_served(self):
+        line = "v=MCPv1; k=ed25519; p=" + "A" * 43 + "="
+        self.assertEqual(g.mcp_registry_proof(self.root_with(line + "\n")), line)
+
+    def test_anything_else_stops_the_build(self):
+        for bad in ("-----BEGIN PRIVATE KEY-----\nMC4CAQAwBQYDK2VwBCIEI\n-----END PRIVATE KEY-----",
+                    "v=MCPv1; k=ed25519; p=short=", "v=MCPv1; k=rsa; p=" + "A" * 43 + "=",
+                    "v=MCPv1; k=ed25519; p=" + "A" * 43 + "=\nextra"):
+            with self.assertRaises(ValueError):
+                g.mcp_registry_proof(self.root_with(bad))
+
+    def test_repo_file_if_present_is_valid(self):
+        g.mcp_registry_proof(ROOT)   # raises if a committed proof is malformed
+
+
 class CustomDomain(Base):
     def test_dist_keeps_cname_and_nojekyll(self):
         out, _, _ = self.build()
