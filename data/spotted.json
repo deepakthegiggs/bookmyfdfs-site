@@ -1,5 +1,131 @@
 [
  {
+  "id": "federal-bank-bookmyshow",
+  "issuer": "Federal Bank",
+  "kind": "card",
+  "platform": "bookmyshow",
+  "headline": "Federal Bank: 10% off",
+  "quote": "Federal Bank | 10% off | ₹ 84",
+  "source_url": "https://www.livemint.com/money/personal-finance/set-to-watch-ramayana-movie-on-diwali-weekend-check-bookmyshow-movie-ticket-offers-on-credit-debit-cards-pay-later-11794034293512.html",
+  "source_name": "livemint.com",
+  "source_kind": "news",
+  "source_date": "2026-11-07",
+  "valid_to": null,
+  "code": null,
+  "confidence": "medium",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
+  "notes": "found by google/gemini-2.5-flash-lite:online",
+  "found_by": "discovery"
+ },
+ {
+  "id": "dcb-bank-bookmyshow-novio",
+  "issuer": "DCB Bank",
+  "kind": "card",
+  "platform": "bookmyshow",
+  "headline": "DCB Bank Novio: Buy 1, get 1 free",
+  "quote": "DCB Novio | Buy 1, get 1 free | ₹ 250",
+  "source_url": "https://www.livemint.com/money/personal-finance/set-to-watch-ramayana-movie-on-diwali-weekend-check-bookmyshow-movie-ticket-offers-on-credit-debit-cards-pay-later-11794034293512.html",
+  "source_name": "livemint.com",
+  "source_kind": "news",
+  "source_date": "2026-11-07",
+  "valid_to": null,
+  "code": null,
+  "confidence": "medium",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
+  "notes": "found by google/gemini-2.5-flash-lite:online",
+  "found_by": "discovery"
+ },
+ {
+  "id": "idbi-bank-bookmyshow",
+  "issuer": "IDBI Bank",
+  "kind": "card",
+  "platform": "bookmyshow",
+  "headline": "IDBI Bank: 25% off",
+  "quote": "IDBI Bank | 25% off | ₹ 105",
+  "source_url": "https://www.livemint.com/money/personal-finance/set-to-watch-ramayana-movie-on-diwali-weekend-check-bookmyshow-movie-ticket-offers-on-credit-debit-cards-pay-later-11794034293512.html",
+  "source_name": "livemint.com",
+  "source_kind": "news",
+  "source_date": "2026-11-07",
+  "valid_to": null,
+  "code": null,
+  "confidence": "medium",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
+  "notes": "found by google/gemini-2.5-flash-lite:online",
+  "found_by": "discovery"
+ },
+ {
+  "id": "indigo-bookmyshow-axis-premium",
+  "issuer": "IndiGo",
+  "kind": "card",
+  "platform": "bookmyshow",
+  "headline": "IndiGo Axis Premium: Buy 1, get 1 free",
+  "quote": "IndiGo Axis Premium | Buy 1, get 1 free | ₹ 250",
+  "source_url": "https://www.livemint.com/money/personal-finance/set-to-watch-ramayana-movie-on-diwali-weekend-check-bookmyshow-movie-ticket-offers-on-credit-debit-cards-pay-later-11794034293512.html",
+  "source_name": "livemint.com",
+  "source_kind": "news",
+  "source_date": "2026-11-07",
+  "valid_to": null,
+  "code": null,
+  "confidence": "medium",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
+  "notes": "found by google/gemini-2.5-flash-lite:online",
+  "found_by": "discovery"
+ },
+ {
+  "id": "j-k-bank-bookmyshow-mastercard",
+  "issuer": "J&K Bank",
+  "kind": "card",
+  "platform": "bookmyshow",
+  "headline": "J&K Bank Mastercard: Buy 1, get 1 free",
+  "quote": "J&K Bank Mastercard | Buy 1, get 1 free | ₹ 420",
+  "source_url": "https://www.livemint.com/money/personal-finance/set-to-watch-ramayana-movie-on-diwali-weekend-check-bookmyshow-movie-ticket-offers-on-credit-debit-cards-pay-later-11794034293512.html",
+  "source_name": "livemint.com",
+  "source_kind": "news",
+  "source_date": "2026-11-07",
+  "valid_to": null,
+  "code": null,
+  "confidence": "medium",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
+  "notes": "found by google/gemini-2.5-flash-lite:online",
+  "found_by": "discovery"
+ },
+ {
+  "id": "pnb-bookmyshow",
+  "issuer": "PNB",
+  "kind": "card",
+  "platform": "bookmyshow",
+  "headline": "PNB: Flat ₹ 250 off quarterly",
+  "quote": "PNB | Flat ₹ 250 off quarterly | ₹ 250",
+  "source_url": "https://www.livemint.com/money/personal-finance/set-to-watch-ramayana-movie-on-diwali-weekend-check-bookmyshow-movie-ticket-offers-on-credit-debit-cards-pay-later-11794034293512.html",
+  "source_name": "livemint.com",
+  "source_kind": "news",
+  "source_date": "2026-11-07",
+  "valid_to": null,
+  "code": null,
+  "confidence": "medium",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
+  "notes": "found by google/gemini-2.5-flash-lite:online",
+  "found_by": "discovery"
+ },
+ {
+  "id": "yes-bank-bookmyshow-elite-credit-card",
+  "issuer": "Yes Bank",
+  "kind": "card",
+  "platform": "bookmyshow",
+  "headline": "Yes Bank Elite+ Credit Card: 25% and more discount on movie tickets",
+  "quote": "25% and more discount on movie tickets",
+  "source_url": "https://www.bankbazaar.com/bookmyshow-credit-card-offers.html",
+  "source_name": "bankbazaar.com",
+  "source_kind": "aggregator",
+  "source_date": null,
+  "valid_to": "2026-12-31",
+  "code": null,
+  "confidence": "medium",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
+  "notes": "found by google/gemini-2.5-flash-lite:online",
+  "found_by": "discovery"
+ },
+ {
   "id": "idfc-district-firstselect-bogo",
   "issuer": "IDFC FIRST Bank",
   "kind": "card",
@@ -236,7 +362,7 @@
   "source_date": "2026-11-25",
   "valid_to": "2026-12-31",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "Quote joins table cells. Cap not stated."
  },
  {
@@ -252,7 +378,7 @@
   "source_date": "2026-11-25",
   "valid_to": "2026-12-31",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "YES Private and Private Prime; also 50% off events up to ₹1,000/month."
  },
  {
@@ -300,7 +426,7 @@
   "source_date": "2026-11-25",
   "valid_to": "2028-03-31",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "Row is 'Bank of India Rupay Credit Card'. Hans India lists BOI RuPay Select flat ₹250."
  },
  {
@@ -364,7 +490,7 @@
   "source_date": "2026-11-07",
   "valid_to": "2026-11-30",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "Quote joins the article's table cells (card | offer). Offers listed as valid until 30 Nov 2026."
  },
  {
@@ -444,7 +570,7 @@
   "source_date": "2026-11-07",
   "valid_to": "2026-11-30",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "Table's max-savings column: ₹150. Quote joins the article's table cells (card | offer). Offers listed as valid until 30 Nov 2026."
  },
  {
@@ -460,7 +586,7 @@
   "source_date": "2026-11-07",
   "valid_to": "2026-11-30",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "Table's max-savings column: ₹300. Quote joins the article's table cells (card | offer). Offers listed as valid until 30 Nov 2026."
  },
  {
@@ -476,7 +602,7 @@
   "source_date": "2026-11-07",
   "valid_to": "2026-11-30",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "May need ₹20,000 spend in the calendar month before (bank disclaimer). Quote joins the article's table cells (card | offer). Offers listed as valid until 30 Nov 2026."
  },
  {
@@ -524,7 +650,7 @@
   "source_date": "2026-11-07",
   "valid_to": "2026-11-30",
   "code": null,
-  "spotted_at": "2026-11-25",
+  "spotted_at": "2026-11-28T11:41:41+05:30",
   "notes": "Debit-card table. Quote joins the article's table cells (card | offer). Offers listed as valid until 30 Nov 2026."
  },
  {
